@@ -23,4 +23,4 @@ print("Hello from lesson 2")
 #   print "Error message 404, phrase not found."
 
 ###### Write task 4 here
-#using comments, translate the code shown on the screen into pseudocode
+# Using comments, translate the code shown on the screen into pseudocode
