@@ -37,4 +37,4 @@ print("Hello from lesson 2")
 # Input(Test 2 score?)
 # assign answer to variable "Test 2 score"
 # Input(Test 3 score?)
-# assign answer to variable 
+# assign answer to variable "Test 3 score"
