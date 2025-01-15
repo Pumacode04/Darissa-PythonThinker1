@@ -32,4 +32,5 @@ print("Hello from lesson 2")
 # Test 2 = 40%
 # Test 3 = 40%
 
-# Input(Test !)
+# Input(Test 1 score)
+# 
