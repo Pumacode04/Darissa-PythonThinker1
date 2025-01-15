@@ -39,4 +39,4 @@ print("Hello from lesson 2")
 # Input(Test 3 score?)
 # assign answer to variable "Test 3 score"
 # assign "Test 1 score" * 0.2 to "Total percentage"
-# assign "Test 2 score" * 0.4 to "total "
+# assign "Test 2 score" * 0.4 to "total percentage"
