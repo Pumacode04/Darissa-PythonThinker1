@@ -17,6 +17,7 @@ print("Hello from lesson 2")
 #       place it in the green bin
 #   else
 #       place it in the yellow bin
+#
 
 ######## Write the pseudocode in comments for task 3 here
 # Using comments, translate the code shown on screen into pseudocode.
