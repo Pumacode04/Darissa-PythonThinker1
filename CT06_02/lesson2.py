@@ -10,7 +10,7 @@ print("Hello from lesson 2")
 # check each item's material and place it in the correct bin.
 
 # check if item type is "glass", "plastic", or "paper"
-# if
+# if item type is ""
 
 ######## Write the pseudocode in comments for task 3 here
 # Using comments, translate the code shown on screen into pseudocode.
