@@ -10,7 +10,7 @@ print("Hello from lesson 2")
 # check each item's material and place it in the correct bin.
 
 # check if item type is "glass", "plastic", or "paper"
-# repeat until item typ
+# repeat until 
 # if item type is "glass"
 #   place it in the blue bin
 # otherwise if its "plastic"
