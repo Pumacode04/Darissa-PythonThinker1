@@ -15,4 +15,4 @@ print("Hello from lesson 2")
 # 1. If the user has entered the right secret phrase, congratulate
 # them.
 
-# ask, "What is the serce"
+# ask, "What is the secret ph"
