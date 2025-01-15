@@ -11,9 +11,9 @@ print("Hello from lesson 2")
 
 # check if item type is "glass", "plastic", or "paper"
 # repeat until number of items is equal to 0
-#if item type is "glass"
-#   place it in the blue bin
-# otherwise if its "plastic"
+#   if item type is "glass"
+#       place it in the blue bin
+#   otherwise if its "plastic"
 #   place it in the green bin
 # else
 #   place it in the yellow bin
