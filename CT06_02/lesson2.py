@@ -16,7 +16,7 @@ print("Hello from lesson 2")
 # them.
 
 # set secrect phrase to : 20 september 2014
-# ask, "What is the secret phrase"
+# ask, "What is the secret phrase" and assign the response to "reply"
 # if reply is "20 september 2014"
 #   reply, "Congratulations!"
 # otherwise
