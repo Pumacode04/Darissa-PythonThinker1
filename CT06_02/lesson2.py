@@ -41,4 +41,4 @@ print("Hello from lesson 2")
 # assign "Test 1 score" * 0.2 to "Total percentage"
 # assign "Test 2 score" * 0.4 to "Total percentage"
 # assign "Test 3 score" * 0.4 to "Total percentage"
-# print
+# print()
