@@ -15,7 +15,7 @@ print("Hello from lesson 2")
 # 1. If the user has entered the right secret phrase, congratulate
 # them.
 
-# set secrect phrase to : 20 september 2014
+# assign 20 september 2014 to secrect phrase 
 # ask, "What is the secret phrase" and assign the response to "reply"
 # if "reply" is "20 september 2014"
 #   print "Congratulations!"
