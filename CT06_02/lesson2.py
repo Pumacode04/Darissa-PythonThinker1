@@ -3,7 +3,7 @@ print("Hello from lesson 2")
 ######## Write the pseudocode in comments for task 2 here
 # Using comments, translate the code shown on screen into pseudocode.
 # ask "What is your age?"
-# add age to
+# add answer to variable "age"
 # if age is less than 18
 #   tell them "Access Denied"
 # else
