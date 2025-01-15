@@ -13,7 +13,9 @@ print("Hello from lesson 2")
 # if item type is "glass"
 #   place it in the blue bin
 # otherwise if its "plastic"
-#   place it in the 
+#   place it in the green bin
+# else
+#
 
 ######## Write the pseudocode in comments for task 3 here
 # Using comments, translate the code shown on screen into pseudocode.
