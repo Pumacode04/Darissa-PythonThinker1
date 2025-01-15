@@ -17,7 +17,7 @@ print("Hello from lesson 2")
 
 # set secrect phrase to : 20 september 2014
 # ask, "What is the secret phrase" and assign the response to "reply"
-# if reply is "20 september 2014"
-#   reply, "Congratulations!"
+# if "reply" is "20 september 2014"
+#   print "Congratulations!"
 # otherwise
-#   reply, "Error message 404, phrase not found."
+#   print "Error message 404, phrase not found."
