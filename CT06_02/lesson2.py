@@ -24,3 +24,10 @@ print("Hello from lesson 2")
 
 ###### Write task 4 here
 # Using comments, translate the code shown on the screen into pseudocode
+
+# Task: Write a pseudocode that calculates the final score of a student
+# based on the following weightage:
+# _each test is scored upon 100_
+# Test 1 = 20%
+# Test 2 = 40%
+# Test 3 = 40%
