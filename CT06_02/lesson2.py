@@ -20,3 +20,4 @@ print("Hello from lesson 2")
 # if reply is "20 september 2014"
 #   reply, "Congratulations!"
 # otherwise
+#   reply, ""
