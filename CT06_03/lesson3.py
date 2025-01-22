@@ -16,4 +16,5 @@ print(answer)
 # Adam : 60
 # Brandon : 50
 # Charlie : 98
-# Daniel :
+# Daniel : 79
+# 60
