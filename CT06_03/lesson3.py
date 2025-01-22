@@ -25,4 +25,4 @@ print(answer)
 # 9. Print the average_score (print(average_score))
 # 10. End
 
-age = input9
+age = input()
