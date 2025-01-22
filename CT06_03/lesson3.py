@@ -29,3 +29,4 @@
 # print(age)
 #1b
 x = 10
+x +
