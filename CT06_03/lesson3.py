@@ -40,4 +40,4 @@ y = 1066
 z = 1438
 print(y + z)
 print(y - z)
-print(y - z)
+print(y * z)
