@@ -68,7 +68,7 @@ z = 1438
 # y = 674
 # z = 342
 # print(y + z)
-print((50 - 10) * 3) # check
-print(100 / 4)
-print((3 + 4) * 5 - (10 / 2 ) )
+# print((50 - 10) * 3) # check
+# print(100 / 4)
+# print((3 + 4) * 5 - (10 / 2 ) )
 print(3 / 2)
