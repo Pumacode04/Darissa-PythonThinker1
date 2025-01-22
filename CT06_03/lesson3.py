@@ -69,3 +69,4 @@ y = 674
 z = 342
 print(y + z)
 print(50 - 10 * 3)
+print()
