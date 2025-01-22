@@ -62,6 +62,6 @@ z = 1438
 # **Task 3d**:
 # Calculate and print the result of (3 + 4) * 5 - (10 / 2).
 
-# **Task 3d**:
+# **Task 3e**:
 # Calculate and print the result of 3 / 2.
 
