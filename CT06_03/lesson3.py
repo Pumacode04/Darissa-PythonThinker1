@@ -87,6 +87,8 @@ z = 1438
 # 9. num-1
 # 10. class
 
+# 
+
 # Which of the following are INVALID variable assignments?
 # 1.  a = 100
 
