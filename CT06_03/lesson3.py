@@ -25,5 +25,5 @@
 # 9. Print the average_score (print(average_score))
 # 10. End
 
-age = input("What is your age")
-print(age)
+#age = input("What is your age")
+# print(age)
