@@ -22,5 +22,5 @@ print(answer)
 # 6. Add Daniel's score to total_score (total_score = total_score + 79)
 # 7. Calculate the number of students (num_students = 4)
 # 8. Calculate the average score (average_score = total_score / num_students)
-# 9. Print the average_score
+# 9. Print the average_score (print(average_score))
 # 10. End
