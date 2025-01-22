@@ -65,9 +65,9 @@ z = 1438
 # **Task 3e**:
 # Calculate and print the result of 3 / 2.
 
-y = 674
-z = 342
-print(y + z)
+# y = 674
+# z = 342
+# print(y + z)
 print((50 - 10) * 3) # check
 print(100 / 4)
 print((3 + 4) * 5 - (10 / 2 ) )
