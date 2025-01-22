@@ -28,6 +28,6 @@
 # age = input("What is your age")
 # print(age)
 #1b
-x = 10
-x = 20
+# x = 10
+# x = 20
 print(x)
