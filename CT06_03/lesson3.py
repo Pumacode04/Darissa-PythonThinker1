@@ -66,4 +66,4 @@ z = 1438
 # Calculate and print the result of 3 / 2.
 
 y = 674
-z + 342
+z = 342
