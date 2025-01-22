@@ -42,3 +42,4 @@ z = 1438
 # print(y - z)
 # print(y * z)
 # print(y / z)
+print(2 + 4 )
