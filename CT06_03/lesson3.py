@@ -18,3 +18,4 @@ print(answer)
 # Charlie : 98
 # Daniel : 79
 # (60+50+98+79)/4 = score
+# print
