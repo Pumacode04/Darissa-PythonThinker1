@@ -11,6 +11,16 @@ print(answer)
 # Charlie: 98
 # Daniel: 79
 
-
 # (60+50+98+79)/4 = average
 # print (average)
+
+# 1. Start
+# 2. Initialize total_score to 0
+# 3. Add Adam's score to total_score (total_score = total_score + 60)
+# 4. Add Brandon's score to total_score (total_score = total_score + 58)
+# 5. Add Charlie's score to total_score (total_score = total_score + 98)
+# 6. Add Daniel's score to total_score (total_score = total_score + 79)
+# 7. Calculate the number of students (num_students = 4)
+# 8. Calculate the average score (average_score = total_score / num_students)
+# 9. Print the average_score
+# 10. End
