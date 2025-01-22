@@ -1,7 +1,7 @@
 # print("Hello from lesson 3")
 
-answer = input("What is your name? ")
-print(answer)
+# answer = input("What is your name? ")
+# print(answer)
 ## Recap 1: Pseudo Code Practice
 # Write a pseudocode that calculates the average score of the 4
 # students:
