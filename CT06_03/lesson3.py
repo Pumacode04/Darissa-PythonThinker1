@@ -17,5 +17,5 @@ print(answer)
 # Brandon : 50
 # Charlie : 98
 # Daniel : 79
-# (60+50+98+79)/4 = 
+# (60+50+98+79)/4 = average
 # print (average)
