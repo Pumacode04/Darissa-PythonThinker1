@@ -26,3 +26,4 @@ print(answer)
 # 10. End
 
 age = input("What is your age")
+print(age)
