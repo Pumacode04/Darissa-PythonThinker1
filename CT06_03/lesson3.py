@@ -13,5 +13,5 @@ print(answer)
 
 
 
-# Adam = 60
+# Adam : 60
 # Brandon : 50
