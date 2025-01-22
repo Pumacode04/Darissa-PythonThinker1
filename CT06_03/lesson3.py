@@ -15,7 +15,7 @@ print(answer)
 # print (average)
 
 # 1. Start
-# 2. Initialize total_score to 0
+# 2. Initialize total_score to 0 (total_score = 0)
 # 3. Add Adam's score to total_score (total_score = total_score + 60)
 # 4. Add Brandon's score to total_score (total_score = total_score + 58)
 # 5. Add Charlie's score to total_score (total_score = total_score + 98)
