@@ -36,3 +36,5 @@
 # **Task 2a**:
 # Create 2 variables holding 2 different numbers:
 # Print out the sum ("+") of the 2 numbers
+y = 1066 + 1438
+p
