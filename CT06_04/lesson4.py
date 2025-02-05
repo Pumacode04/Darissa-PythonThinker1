@@ -107,7 +107,7 @@ Next = Age + 1
 str(Next)
 print(Next)
 
-Number = int(input(""))
-Next = Age + 1
+Number = int(input("Pick a random number."))
+D = Age + 1
 str(Next)
 print(Next)
