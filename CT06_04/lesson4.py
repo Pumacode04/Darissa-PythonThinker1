@@ -74,5 +74,6 @@
 
 Name = input("Tell me your name.")
 print("Hi, + (Name)")
-Hobby = input("Tell me your name.")
+
+Hobby = input("Tell me your favourite hobby.")
 print("Hi, + (Name)")
