@@ -74,3 +74,5 @@
 
 Name = input("Tell me your name.")
 print("Hi, + (Name)")
+ame = input("Tell me your name.")
+print("Hi, + (Name)")
