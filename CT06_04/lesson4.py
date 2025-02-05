@@ -104,7 +104,7 @@
 
 Age = int(input("Tell me your age"))
 Next = Age + 1
-str(Next)
+# str(Next)
 print("Next year you will be" + str(Next))
 
 Number = int(input("Pick a random number."))
