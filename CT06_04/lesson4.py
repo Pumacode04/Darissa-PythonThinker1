@@ -78,5 +78,5 @@ print("Hi, + (Name)")
 Hobby = input("Tell me your favourite hobby.")
 print("Hi, + (Hobby)")
 
-DreamVacation = input("Tell me your .")
+DreamVacation = input("Tell me your dream vacation.")
 print("Hi, + (Name)")
