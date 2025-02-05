@@ -41,11 +41,11 @@
 # Ask the user for their age using input() and store the answer
 # in a variable. Print the variable.
 
-You = input("Tell me your name.")
-print(You)
+# You = input("Tell me your name.")
+# print(You)
 
-Color = input("Tell me your favourite color")
-print(Color)
+# Color = input("Tell me your favourite color")
+# print(Color)
 
 Age = input("Tell me your age.")
 print(Age)
