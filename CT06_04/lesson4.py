@@ -105,3 +105,4 @@
 Age = int(input("Tell me your age"))
 Next = Age + 1
 str(Next)
+print(Next)
