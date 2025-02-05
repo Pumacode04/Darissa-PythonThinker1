@@ -112,7 +112,7 @@ DNumber = Number * 2
 str(DNumber)
 print(DNumber)
 
-Year = int(input("Tell me the year you were bron"))
-Next = Age + 1
+Year = int(input("Tell me the year you were born."))
+Birth = Age + 1
 str(Next)
 print(Next)
