@@ -108,6 +108,6 @@ str(Next)
 print(Next)
 
 Number = int(input("Pick a random number."))
-DNumber = Number * 2 + 1
-str(Next)
+DNumber = Number * 2
+str()
 print(Next)
