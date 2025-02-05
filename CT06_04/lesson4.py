@@ -72,8 +72,8 @@
 # Concatenate this variable with a phrase like "I would love to
 # visit" and print the full sentence.
 
-Name = input("Tell me your name.")
-print("Hi, " + (Name))
+# Name = input("Tell me your name.")
+# print("Hi, " + (Name))
 
 Hobby = input("Tell me your favourite hobby.")
 print("I enjoy " + (Hobby))
