@@ -79,4 +79,4 @@ Hobby = input("Tell me your favourite hobby.")
 print("Hi," + (Hobby))
 
 DreamVacation = input("Tell me your dream vacation.")
-print("Hi," + )
+print("Hi," + (DreamVacation))
