@@ -110,4 +110,9 @@ print(Next)
 Number = int(input("Pick a random number."))
 DNumber = Number * 2
 str(DNumber)
-print()
+print(DNumber)
+
+Age = int(input("Tell me your age"))
+Next = Age + 1
+str(Next)
+print(Next)
