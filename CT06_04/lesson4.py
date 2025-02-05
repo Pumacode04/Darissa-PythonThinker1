@@ -21,3 +21,4 @@
 # Green = 3
 # Total = (Red) * 3 + (Blue) * 5 + (Green) * 4
 # print(Total)
+
