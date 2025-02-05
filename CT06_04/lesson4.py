@@ -76,7 +76,7 @@ Name = input("Tell me your name.")
 print("Hi," + (Name))
 
 Hobby = input("Tell me your favourite hobby.")
-print("Hi, + (Hobby)")
+print("Hi," + (Hobby))
 
 DreamVacation = input("Tell me your dream vacation.")
 print("Hi, + (DreamVacation)")
