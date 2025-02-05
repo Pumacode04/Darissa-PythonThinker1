@@ -105,7 +105,7 @@
 Age = int(input("Tell me your age"))
 Next = Age + 1
 str(Next)
-print("Next year you will be " + Next)
+print("Next year you will be" + Next)
 
 Number = int(input("Pick a random number."))
 DNumber = Number * 2
