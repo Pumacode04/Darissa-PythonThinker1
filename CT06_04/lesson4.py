@@ -73,10 +73,10 @@
 # visit" and print the full sentence.
 
 Name = input("Tell me your name.")
-print("Hi," + (Name))
+print("Hi, " + (Name))
 
 Hobby = input("Tell me your favourite hobby.")
 print("I enjoy " + (Hobby))
 
 DreamVacation = input("Tell me your dream vacation.")
-print("Hi," + (DreamVacation))
+print("" + (DreamVacation))
