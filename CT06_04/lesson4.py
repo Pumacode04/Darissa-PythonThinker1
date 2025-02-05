@@ -103,12 +103,12 @@
 # years old".
 
 # Age = int(input("Tell me your age"))
-Next = Age + 1
-print("Next year you will be " + str(Next))
+# Next = Age + 1
+# print("Next year you will be " + str(Next))
 
 # Number = int(input("Pick a random number."))
-DNumber = Number * 2
-print("Double your number is " + str(DNumber))
+# DNumber = Number * 2
+# print("Double your number is " + str(DNumber))
 
 # Year = int(input("Tell me the year you were born."))
 # Birth = 2025 - Year
