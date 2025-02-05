@@ -103,4 +103,4 @@
 # years old".
 
 Age = int(input("Tell me your age"))
-Next = Age
+Next = Age + 1
