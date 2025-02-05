@@ -109,5 +109,5 @@ print(Next)
 
 Number = int(input("Pick a random number."))
 DNumber = Number * 2
-str()
-print(Next)
+str(DNumber)
+print()
