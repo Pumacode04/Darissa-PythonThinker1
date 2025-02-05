@@ -108,6 +108,6 @@ str(Next)
 print(Next)
 
 Number = int(input("Pick a random number."))
-D = Age + 1
+DNumber = Number * 2 + 1
 str(Next)
 print(Next)
