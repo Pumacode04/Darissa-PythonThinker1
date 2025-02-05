@@ -15,6 +15,7 @@
 
 # Calculate and print the total amount you have spent: -->
 
+# Answer below
 # Red = 1
 # Blue = 2
 # Green = 3
