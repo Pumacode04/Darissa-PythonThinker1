@@ -22,3 +22,4 @@
 # Total = (Red) * 3 + (Blue) * 5 + (Green) * 4
 # print(Total)
 
+Apple = ("")
