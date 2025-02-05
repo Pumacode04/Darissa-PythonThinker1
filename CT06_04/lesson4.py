@@ -110,6 +110,6 @@ print("Next year you will be " + str(Next))
 DNumber = Number * 2
 print("Double your number is " + str(DNumber))
 
-Year = int(input("Tell me the year you were born."))
-Birth = 2025 - Year
-print("You are " + str(Birth) + " years old")
+# Year = int(input("Tell me the year you were born."))
+# Birth = 2025 - Year
+# print("You are " + str(Birth) + " years old")
