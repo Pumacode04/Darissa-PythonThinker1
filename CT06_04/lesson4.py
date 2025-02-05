@@ -102,11 +102,11 @@
 # 3. Convert the age back to a string and print "You are [age]
 # years old".
 
-Age = int(input("Tell me your age"))
+# Age = int(input("Tell me your age"))
 Next = Age + 1
 print("Next year you will be " + str(Next))
 
-Number = int(input("Pick a random number."))
+# Number = int(input("Pick a random number."))
 DNumber = Number * 2
 print("Double your number is " + str(DNumber))
 
