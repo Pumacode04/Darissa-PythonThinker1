@@ -47,5 +47,7 @@
 # Color = input("Tell me your favourite color")
 # print(Color)
 
-Age = input("Tell me your age.")
-print(Age)
+# Age = input("Tell me your age.")
+# print(Age)
+
+
