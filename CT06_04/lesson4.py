@@ -1,2 +1,3 @@
 print("Hello from lesson 4")
-R
+Red = 1
+Blue = 2
