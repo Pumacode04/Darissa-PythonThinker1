@@ -81,7 +81,6 @@
 # DreamVacation = input("Tell me your dream vacation.")
 # print("I would love to visit " + (DreamVacation))
 
-
 # **Task 3a**:
 # 1. Ask the user for their current age using input(). Convert this
 # to an integer.
@@ -102,3 +101,5 @@
 # current year as an integer) to find their age.
 # 3. Convert the age back to a string and print "You are [age]
 # years old".
+
+Age = int
