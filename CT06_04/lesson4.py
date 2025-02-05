@@ -109,7 +109,7 @@ print("Next year you will be" + str(Next))
 
 Number = int(input("Pick a random number."))
 DNumber = Number * 2
-str(DNumber)
+# str(DNumber)
 print("Double your number is" + str(DNumber))
 
 Year = int(input("Tell me the year you were born."))
