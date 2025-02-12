@@ -99,5 +99,5 @@
 
 Start = input("Choose a number, now.")
 Stop = input("Choose another number now.")
-for i in range(str(Start), str(Stop)):
+for i in range(int(Start), int(Stop)):
     print(i)
