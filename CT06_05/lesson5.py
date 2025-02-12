@@ -18,4 +18,4 @@
 # "Happy <Age>th birthday <Name>! <Message>"
 
 Name = input("Tell me your name")
-Age = in
+Age = input("Age you ")
