@@ -50,5 +50,7 @@
 # Name = input("Tell me your name")
 # for char in Name:
 #     print("Give me a " + char)
-print("What do we have?")
-print(Name + " is the best!")
+# print("What do we have?")
+# print(Name + " is the best!")
+
+
