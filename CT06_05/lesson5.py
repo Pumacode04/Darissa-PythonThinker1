@@ -1,2 +1,14 @@
 print("Hello from lesson 5")
-and
+andb
+classmethode
+f
+globalh
+ifj
+KeyboardInterruptl
+matchn
+orp
+quitr
+setattru
+varsw
+x
+yieldz
