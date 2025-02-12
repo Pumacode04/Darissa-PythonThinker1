@@ -48,7 +48,7 @@
 #     Which function should you be using?
 
 Name = input("Tell me your name")
-for char in Name :
+for char in Name:
     print("Give me a ")
 print("What do we have?")
 print(Name + " is the best!")
