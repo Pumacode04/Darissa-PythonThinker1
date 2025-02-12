@@ -17,4 +17,4 @@
 # ### Sample output:
 # "Happy <Age>th birthday <Name>! <Message>"
 
-Age = input()
+Age = input("Tell me your name")
