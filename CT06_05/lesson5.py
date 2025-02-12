@@ -49,4 +49,4 @@
 
 Name = input("Tell me your name")
 for char in Name :
-    print("Give")
+    print("Give me a")
