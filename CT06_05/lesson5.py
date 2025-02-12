@@ -20,4 +20,4 @@
 Name = input("Tell me your name.")
 Age = input("Age you are turning this year.")
 Message = input("What do you want to say.")
-print("Happy " + Age)
+print("Happy " + Age + "th brithday" + Name + "!" + Message)
