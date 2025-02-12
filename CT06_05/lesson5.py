@@ -59,5 +59,5 @@
 # Print the sentence "I like chicken rice." 100 times using the
 # 'for' loop
 
-for i in range(100):
+for i in range(100)
     print("Iteration number: " + str(i) + " I like chicken rice.")
