@@ -19,4 +19,5 @@
 
 Name = input("Tell me your name.")
 Age = input("Age you are turning this year.")
-Message = input("what")
+Message = input("What do you want to say.")
+print()
