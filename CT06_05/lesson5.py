@@ -98,4 +98,4 @@
 # Modify your code to be able to handle that scenario.
 
 Start = input("Choose a number, now.")
-Stop = inp
+Stop = input("Choose another number now.")
