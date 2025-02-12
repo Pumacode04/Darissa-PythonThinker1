@@ -97,7 +97,7 @@
 # What happens if the user inputs a higher start number than stop?
 # Modify your code to be able to handle that scenario.
 
-Start = input("Choose a number, now.")
-Stop = input("Choose another number now.")
-for i in range(int(Start), int(Stop) + 1):
-    print(i)
+# Start = input("Choose a number, now.")
+# Stop = input("Choose another number now.")
+# for i in range(int(Start), int(Stop) + 1):
+#     print(i)
