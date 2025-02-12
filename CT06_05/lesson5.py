@@ -48,3 +48,5 @@
 #     Which function should you be using?
 
 Name = input("Tell me your name")
+for char in Name :
+    
