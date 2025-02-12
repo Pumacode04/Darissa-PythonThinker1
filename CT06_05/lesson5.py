@@ -22,5 +22,5 @@
 # Message = input("What do you want to say.")
 # print("Happy " + Age + "th brithday " + Name + "! " + Message)
 
-for i in range(25) :
-    print("hi")
+# for i in range(25) :
+#    print("hi")
