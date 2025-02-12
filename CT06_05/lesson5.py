@@ -64,3 +64,5 @@
 
 # range(start, stop, step)
 # range(start, stop)
+# range(stop)
+
