@@ -54,3 +54,9 @@
 # print(Name + " is the best!")
 
 
+## Task 2: Repeated Sentence Loop
+
+# Print the sentence "I like chicken rice." 100 times using the
+# 'for' loop
+
+
