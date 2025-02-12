@@ -51,4 +51,4 @@ Name = input("Tell me your name")
 for char in Name :
     print("Give me a")
 print("What do we have?")
-print(Name + "")
+print(Name + " is the best!")
