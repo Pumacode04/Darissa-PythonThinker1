@@ -13,7 +13,8 @@
 # well as a 'for' loop.
 
 Student = int(input("How many students do you have?"))
-sum
+sum = 0
+
 
 # Uhm = input("What is your name.")
 # print("Hi " + Uhm + ". Please so kindly close this tab and log out of python.")
