@@ -12,7 +12,7 @@
 # Use only variables, math operators that you have learnt, as
 # well as a 'for' loop.
 
-Student = int(input("How many students do you have?"))
+# Student = int(input("How many students do you have?"))
 sum = 0
 for i in range(1, Student + 1):
     sum = sum + int(input("What is student #" + str(i) + "s score?"))
