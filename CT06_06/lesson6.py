@@ -14,7 +14,7 @@
 
 Student = input("Number of students?")
 Total = 0
-for (i) in range(Student):
+for (i) in range(int(Student)):
     input("Score of student?")
 
 
