@@ -1,1 +1,2 @@
-print("Hello from lesson 6")
+Uhm = input("What is your name.")
+print("Hi" (Uhm )+ ". Please so kindly close this tab and log out of python.")
