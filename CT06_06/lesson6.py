@@ -15,8 +15,8 @@
 Student = input("Number of students?")
 Total = 0
 for (i) in range(int(Student)):
-    input(int("Score of student?"))
-    
+    Total + input(int("Score of student?"))
+
 
 # Uhm = input("What is your name.")
 # print("Hi " + Uhm + ". Please so kindly close this tab and log out of python.")
