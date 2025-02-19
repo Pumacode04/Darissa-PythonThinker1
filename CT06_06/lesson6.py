@@ -15,7 +15,7 @@
 Student = int(input("How many students do you have?"))
 sum = 0
 for i in range(1, Student + 1):
-    sum + sum + int(input())
+    sum + sum + int(input("What is student #" + str(1)))
 
 # Uhm = input("What is your name.")
 # print("Hi " + Uhm + ". Please so kindly close this tab and log out of python.")
