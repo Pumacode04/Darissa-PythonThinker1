@@ -12,7 +12,8 @@
 # Use only variables, math operators that you have learnt, as
 # well as a 'for' loop.
 
-Student = int(input("How many students do you have"))
+Student = int(input("How many students do you have?"))
+sum
 
 # Uhm = input("What is your name.")
 # print("Hi " + Uhm + ". Please so kindly close this tab and log out of python.")
