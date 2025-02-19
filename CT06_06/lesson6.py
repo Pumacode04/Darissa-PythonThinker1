@@ -47,14 +47,14 @@
 # Fix the errors in the following:
 
 # **Task 2a**:
-print("age")
+# print("age")
 
 # **Task 2b**:
-name = "Alice"
-print(name)
+# name = "Alice"
+# print(name)
 
 # **Task 2c**:
-x = 5
+# x = 5
 print(x)
 
 
