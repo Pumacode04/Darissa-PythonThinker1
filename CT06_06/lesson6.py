@@ -55,8 +55,10 @@
 
 # **Task 2c**:
 # x = 5
-print(x)
+# print(x)
 
 
 # **Task 2d**:
-print("Hello, World!")
+# print("Hello, World!")
+
+
