@@ -1,3 +1,5 @@
+# Uhm = input("What is your name.")
+# print("Hi " + Uhm + ". Please so kindly close this tab and log out of python.")
 # Lesson 6 - Debugging
 
 ## Recap 1: Class Average Calculator
@@ -20,6 +22,4 @@
 # print("My sum is : " + str(sum))
 # print("My average is : " + str(sum / Student))
 
-# Uhm = input("What is your name.")
-# print("Hi " + Uhm + ". Please so kindly close this tab and log out of python.")
 
