@@ -38,7 +38,9 @@
 # print("Hello, World!")
 
 # **Task 1d**:
-Hi = 5
+# Hi = 5
 
 # **Task 1e**:
-print("Hello, World!")
+# print("Hello, World!")
+
+
