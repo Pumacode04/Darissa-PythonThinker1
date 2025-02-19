@@ -65,15 +65,15 @@
 # Fix the errors in the following:
 
 # **Task 3a**:
-age = 25
-print(age + 1)
+# age = 25
+# print(age + 1)
 
 # **Task 3b**:
-number = 10
-print(number - 5)
+# number = 10
+# print(number - 5)
 
 # **Task 3c**:
-print("Repeat " + "3")
+# print("Repeat " + "3")
 
 # **Task 3d**:
 year = "2023"
