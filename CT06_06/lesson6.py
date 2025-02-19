@@ -12,7 +12,7 @@
 # Use only variables, math operators that you have learnt, as
 # well as a 'for' loop.
 
-Student = int(input())
+Student = int(input("How many students do you have"))
 
 # Uhm = input("What is your name.")
 # print("Hi " + Uhm + ". Please so kindly close this tab and log out of python.")
