@@ -17,7 +17,7 @@ Total = 0
 for (i) in range(int(Student)):
     Total + Told + input(int("Score of student?"))
 Total = Total / Student
-print
+print(Total)
 
 # Uhm = input("What is your name.")
 # print("Hi " + Uhm + ". Please so kindly close this tab and log out of python.")
