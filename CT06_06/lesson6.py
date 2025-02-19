@@ -65,7 +65,7 @@
 # Fix the errors in the following:
 
 # **Task 3a**:
-age = "25"
+age = 25
 print(age + 1)
 
 # **Task 3b**:
