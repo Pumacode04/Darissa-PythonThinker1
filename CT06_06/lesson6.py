@@ -12,12 +12,7 @@
 # Use only variables, math operators that you have learnt, as
 # well as a 'for' loop.
 
-Student = input("Number of students?")
-Total = 0
-for i in range(int(Student)):
-    Total = Total + int(input("Score of student?"))
-Total = Total / Student
-print(str(Total))
+Student = 
 
 # Uhm = input("What is your name.")
 # print("Hi " + Uhm + ". Please so kindly close this tab and log out of python.")
