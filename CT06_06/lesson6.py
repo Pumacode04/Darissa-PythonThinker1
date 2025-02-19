@@ -80,7 +80,7 @@ year = 2023
 print("The year is " + str(year))
 
 # **Task 3e**:
-x = "10"
+x = 10
 y = x / 2
 
 # **Task 3f**:
