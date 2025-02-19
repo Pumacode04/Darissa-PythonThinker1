@@ -80,11 +80,11 @@ print("Repeat " * 3)
 # print("The year is " + year)
 
 # **Task 3e**:
-x = 10
-y = x / 2
+# x = 10
+# y = x / 2
 
 # **Task 3f**:
-end = 5
-for i in range(end):
-    print(i)
+# end = 5
+# for i in range(end):
+#     print(i)
 
