@@ -140,6 +140,6 @@
 
 num = 0
 for i in range(5) :
-    
+    times = "1"
     num = num + input("What is number #")
 print("The sum of the 5 numbers is : " + num)
