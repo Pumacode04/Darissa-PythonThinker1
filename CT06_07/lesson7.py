@@ -118,4 +118,4 @@
 # Nice to meet you, burger
 # Nice to meet you, burger
 
-name = input()
+name = input("Tell me your name")
