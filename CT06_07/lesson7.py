@@ -99,7 +99,7 @@
 # burger
 # burger
 
-word = input("One word, now.")
-repeat = int(input("Just choose a number"))
-for i in range(repeat) :
-    print(word)
+# word = input("One word, now.")
+# repeat = int(input("Just choose a number"))
+# for i in range(repeat) :
+#     print(word)
