@@ -139,6 +139,6 @@
 # Sum of the 5 numbers is 19 
 
 num = 0
-for i in range(5) :
+for i in range(1, 6) :
     num = num + input("What is number #" + str(i))
 print("The sum of the 5 numbers is : " + num)
