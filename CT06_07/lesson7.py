@@ -176,3 +176,4 @@
 
 # Hint: You can use a code like this >>> print("a" * 5)
 
+num =input()
