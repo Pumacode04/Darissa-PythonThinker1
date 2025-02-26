@@ -100,4 +100,4 @@
 # burger
 
 word = input("One word, now.")
-repeat = 
+repeat = (input("What "))
