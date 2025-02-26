@@ -160,7 +160,7 @@
 num = int(input("Choose a number that you want to know the timestable of : "))
 for i in range(1, 13):
     total = i * num
-    print(str(num) + "x" + str(i) + "=" + str(total))
+    print(str(num) + " x " + str(i) + " =" + str(total))
 
 ## Task 8: Number Pyramid Pattern
 
