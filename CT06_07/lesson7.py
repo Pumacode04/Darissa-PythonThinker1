@@ -100,6 +100,6 @@
 # burger
 
 word = input("One word, now.")
-repeat = (input("Just choose a number"))
+repeat = str(input("Just choose a number"))
 for i in range(repeat) :
     print(word)
