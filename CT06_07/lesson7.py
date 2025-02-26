@@ -141,5 +141,5 @@
 num = 0
 for i in range(5) :
     times = "1"
-    num = num + input("What is number #")
+    num = num + input("What is number #" + times)
 print("The sum of the 5 numbers is : " + num)
