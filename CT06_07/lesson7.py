@@ -141,4 +141,4 @@
 num = 0
 for i in range(1, 6) :
     num = num + int(input("What is number #" + str(i)))
-print("The sum of the 5 numbers is : " + num)
+print("The sum of the 5 numbers is : " + str(num))
