@@ -101,5 +101,5 @@
 
 word = input("One word, now.")
 repeat = int(input("Just choose a number"))
-for i in int(range(repeat)) :
+for i in range(repeat) :
     print(word)
