@@ -176,4 +176,6 @@
 
 # Hint: You can use a code like this >>> print("a" * 5)
 
-num = input("A number.")
+num = int(input("A number."))
+for i in range(1, num + 1) :
+    print(i * i)
