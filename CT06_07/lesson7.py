@@ -121,4 +121,4 @@
 name = input("Tell me your name")
 repeat = int(input("Number, now!"))
 for i in range(repeat) :
-    print("How do you do," + name + " ")
+    print("How do you do, " + name + "?")
