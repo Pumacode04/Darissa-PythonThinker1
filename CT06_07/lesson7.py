@@ -118,8 +118,8 @@
 # Nice to meet you, burger
 # Nice to meet you, burger
 
-# name = input("Tell me your name")
-# repeat = int(input("Number, now!"))
-# for i in range(repeat) :
-#     print("How do you do, " + name + "?")
+name = input("Tell me your name")
+repeat = int(input("Number, now!"))
+for i in range(repeat) :
+    print("How do you do, " + name + "?")
 
