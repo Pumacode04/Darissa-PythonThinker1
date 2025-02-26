@@ -158,3 +158,4 @@
 # 5 x 12 = 60
 
 num = input("Choose a number that you want to know the timestable of")
+f
