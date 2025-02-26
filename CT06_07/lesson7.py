@@ -139,4 +139,4 @@
 # Sum of the 5 numbers is 19 
 
 for i in range(5) :
-    num = num  + int(input("What is number "))
+    num = num  + int(input("What is number #"))
