@@ -157,6 +157,6 @@
 # ..
 # 5 x 12 = 60
 
-num = input("Choose a number that you want to know the timestable of")
+num = input("Choose a number that you want to know the timestable of : ")
 for i in range(1, 11):
     print(i * num)
