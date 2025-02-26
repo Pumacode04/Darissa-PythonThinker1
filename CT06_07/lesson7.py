@@ -140,4 +140,4 @@
 
 for i in range(5) :
     num = num  + int(input("What is number #" + i))
-    
+print(num)
