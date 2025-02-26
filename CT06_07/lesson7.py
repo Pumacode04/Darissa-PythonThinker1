@@ -54,6 +54,6 @@
 
 num = 0
 print(num)
-for i in range(10) :
+for i in range(9) :
     num = 0 + int(input("A number"))
     print(num)
