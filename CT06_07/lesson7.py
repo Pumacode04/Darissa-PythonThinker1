@@ -119,4 +119,4 @@
 # Nice to meet you, burger
 
 name = input("Tell me your name")
-repeat = int(input(""))
+repeat = int(input("Number, now!"))
