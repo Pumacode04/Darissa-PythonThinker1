@@ -53,7 +53,6 @@
 #     45
 
 num = 0
-print(num)
-for i in range(9) :
+for i in range(10) :
     num = num + int(input("A number"))
     print(num)
