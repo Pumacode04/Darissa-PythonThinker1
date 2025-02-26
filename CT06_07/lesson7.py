@@ -81,3 +81,6 @@
 
 # for i in range(3, 20, 2) :
 #     print(i)
+
+for i in range(10, 0, -1) :
+    print
