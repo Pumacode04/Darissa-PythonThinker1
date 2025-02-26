@@ -75,8 +75,7 @@
 
 # Use a 'for' loop and range() to count down from 10 to 1.
 
-num = 1
+
 for i in range(10) :
-    print(num)
-    num = num + 1
+    print(i)
 
