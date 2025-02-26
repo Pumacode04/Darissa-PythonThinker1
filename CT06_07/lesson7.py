@@ -120,3 +120,5 @@
 
 name = input("Tell me your name")
 repeat = int(input("Number, now!"))
+for i in range(repeat) :
+    print("nice ")
