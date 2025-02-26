@@ -139,7 +139,7 @@
 # Sum of the 5 numbers is 19 
 
 num = 0
-times + "1"
+times = "1"
 for i in range(5) :
     num = num + input("What is number #" + times)
     times = int(times) + 1
