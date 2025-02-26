@@ -99,3 +99,4 @@
 # burger
 # burger
 
+word = input("One word, now.")
