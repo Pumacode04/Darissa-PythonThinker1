@@ -117,3 +117,5 @@
 # Nice to meet you, burger
 # Nice to meet you, burger
 # Nice to meet you, burger
+
+name = input()
