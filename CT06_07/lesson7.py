@@ -138,3 +138,5 @@
 # output:
 # Sum of the 5 numbers is 19 
 
+for i in range(5) :
+    
