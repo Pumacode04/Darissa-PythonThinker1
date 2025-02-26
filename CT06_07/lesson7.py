@@ -55,5 +55,5 @@
 num = 0
 print(num)
 for i in range(9) :
-    num = num1 + int(input("A number"))
+    num = num + int(input("A number"))
     print(num)
