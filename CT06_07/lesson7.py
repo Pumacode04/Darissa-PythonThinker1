@@ -159,4 +159,4 @@
 
 num = int(input("Choose a number that you want to know the timestable of : "))
 for i in range(1, 13):
-    print(i * num)
+    total = i * num)
