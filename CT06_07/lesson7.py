@@ -123,3 +123,18 @@
 # for i in range(repeat) :
 #     print("How do you do, " + name + "?")
 
+## Task 6: Sum of Five User Inputs
+
+# Ask the user to input 5 numbers, one at a time, and print the
+# sum of these numbers.
+
+# Example:
+# What is number #1? <<5>>
+# What is number #2? <<2>>
+# What is number #3? <<4>>
+# What is number #4? <<1>>
+# What is number #5? <<7>>
+
+# output:
+# Sum of the 5 numbers is 19 
+
