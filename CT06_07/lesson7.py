@@ -75,3 +75,4 @@
 
 # Use a 'for' loop and range() to count down from 10 to 1.
 
+num = 1
