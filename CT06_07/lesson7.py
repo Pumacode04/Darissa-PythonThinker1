@@ -140,5 +140,5 @@
 
 num = 0
 for i in range(5) :
-    num = num  + int(input("What is number #" + i))
+    num +
 print("The sum of the 5 numbers is :" + num)
