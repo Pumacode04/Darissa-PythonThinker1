@@ -119,3 +119,4 @@
 # Nice to meet you, burger
 
 name = input("Tell me your name")
+repeat = input
