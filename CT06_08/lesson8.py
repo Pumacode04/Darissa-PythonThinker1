@@ -8,4 +8,4 @@
 # Task 2
 Start = input("State your first number.")
 Stop = input("State your second number.")
-Increment
+Increment = 
