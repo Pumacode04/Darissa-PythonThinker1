@@ -7,3 +7,4 @@
 
 # Task 2
 Start = input("State your first number.")
+Stop = input()
