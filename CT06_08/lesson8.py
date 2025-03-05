@@ -8,7 +8,7 @@
 # Task 2
 Start = int(input("State your first number which will be your start."))
 Stop = int(input("State your second number which will be which number you stop at."))
-Increment = int(input("State your last number now which would be the change of the previous number in the sequence."))
+Increment = int(input("State your last number now which would be the differ of the previous number in the sequence."))
 # The top three codes are storing your choice of numbers in a variable
 for i in range(Start, Stop, Increment):
     print(i)
