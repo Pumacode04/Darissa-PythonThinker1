@@ -9,4 +9,4 @@
 Start = input("State your first number.")
 Stop = input("State your second number.")
 Increment = input("State your last number now.")
-# The top three codes are storing your answer
+# The top three codes are storing your answer in a variable
