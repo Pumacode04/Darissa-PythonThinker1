@@ -6,7 +6,9 @@
 # # (continue from previous comment) say and the name you typed in eariler.
 
 # Task 2
-Start = input("State your first number.")
-Stop = input("State your second number.")
-Increment = input("State your last number now.")
-# The top three codes are storing your answer in a variable
+Start = int(input("State your first number."))
+Stop = int(input("State your second number."))
+Increment = int(input("State your last number now."))
+# The top three codes are storing your choice of numbers in a variable
+for i in range(Start, Stop, Increment):
+    print(i)
