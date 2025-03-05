@@ -6,4 +6,4 @@
 # # (continue from previous comment) say and the name you typed in eariler.
 
 # Task 2
-Start = input
+Start = input("State your first number.")
