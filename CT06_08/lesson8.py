@@ -6,7 +6,7 @@
 # # (continue from previous comment) say and the name you typed in eariler.
 
 # Task 2
-Start = int(input("State your first number wich."))
+Start = int(input("State your first number which will be your start."))
 Stop = int(input("State your second number."))
 Increment = int(input("State your last number now."))
 # The top three codes are storing your choice of numbers in a variable
