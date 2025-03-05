@@ -7,4 +7,5 @@
 
 # Task 2
 Start = input("State your first number.")
-Stop = input()
+Stop = input("State your second number.")
+Increment
