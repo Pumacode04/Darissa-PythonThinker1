@@ -9,6 +9,6 @@
 Start = int(input("State your first number."))
 Stop = int(input("State your second number."))
 Increment = int(input("State your last number now."))
-# The top three codes are storing your choice of numbers in a variable (the)
+# The top three codes are storing your choice of numbers in a variable 
 for i in range(Start, Stop, Increment):
     print(i)
