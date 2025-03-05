@@ -12,4 +12,4 @@ Increment = int(input("State your last number now."))
 # The top three codes are storing your choice of numbers in a variable
 for i in range(Start, Stop, Increment):
     print(i)
-# It is
+# The prog
