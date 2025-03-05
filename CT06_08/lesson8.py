@@ -1,2 +1,2 @@
-Name = input()
+Name = input("What is your name? ")
 
