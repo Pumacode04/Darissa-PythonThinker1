@@ -98,4 +98,4 @@ import random
 x = random.randint(2, 49)
 y = random.randint(2, 49)
 z = input("What is " + str(x) + str(y))
-z == x * 
+z == x * y
