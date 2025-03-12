@@ -97,4 +97,4 @@
 import random
 x = random.randint(2, 49)
 y = random.randint(2, 49)
-z = input
+z = input("What is " + str())
