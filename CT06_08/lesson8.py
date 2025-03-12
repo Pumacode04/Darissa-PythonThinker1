@@ -159,4 +159,4 @@ for i in range(int(Quest) + 1):
     x = (random.randint(2, 9))
     y = (random.randint(2, 9))
     z = input("What is" + x + "x" + y + "?")
-    print(int(z == y * x)
+    print(int(z) == y * x)
