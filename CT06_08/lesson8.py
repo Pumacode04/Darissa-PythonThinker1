@@ -117,4 +117,4 @@ import random
 x = random.randint(2, 49)
 y = input("smaller number")
 z = input("bigger number")
-print(x <= int(z)) and (x >= y)
+print(x <= int(z)) and (x >= int(y))
