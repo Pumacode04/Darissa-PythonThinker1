@@ -133,4 +133,6 @@
 # 1. True (If the answer is correct)
 # 2. False (If the answer is wrong)
 
+import random
 guess = input("What is your guess? (the number is from 1 -10)")
+num1 = random.randint(2)
