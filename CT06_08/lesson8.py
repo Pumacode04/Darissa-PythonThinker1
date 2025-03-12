@@ -47,4 +47,4 @@
 # 9999 randomly.
 
 import random
-print(random.randint())
+print(random.randint(1, 6))
