@@ -8,6 +8,7 @@
 # 1. Using a for loop, ask the user for 5 numbers one at a time.
 # 2. Calculate the multiplication for these 5 numbers and print
 #    it out.
+product = 1
 for i in range(1, 6) :
     number = input("What is your #" + str(i))
     product = int(number) * product
