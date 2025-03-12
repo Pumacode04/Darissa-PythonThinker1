@@ -116,4 +116,4 @@
 import random
 x = random.randint(2, 49)
 y = input("first number")
-z = input
+z = input("second number")
