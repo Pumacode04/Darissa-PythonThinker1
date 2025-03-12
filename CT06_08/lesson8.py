@@ -49,6 +49,6 @@
 # import random
 # print(random.randint(2, 5))
 
-import random
-for i in range(20):
-    print(random.randint(1, 9998))
+# import random
+# for i in range(20):
+#     print(random.randint(1, 9998))
