@@ -113,8 +113,8 @@
 # 1. True (If the answer is correct)
 # 2. False (If the answer is wrong)
 
-import random
+# import random
 x = random.randint(2, 49)
 y = input("smaller number")
 z = input("bigger number")
-print(x <= int(z)) and (x >= int(y))
+print(int(y) <= x <= int(z))
