@@ -155,7 +155,7 @@
 
 import random
 Quest = input("How much questions you want to attempt?")
-for i in range(int(Quest) + 1):
+for i in range(int(Quest)):
     x = (random.randint(2, 9))
     y = (random.randint(2, 9))
     z = input("What is" + x + "x" + y + "?")
