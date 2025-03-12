@@ -153,6 +153,7 @@
 # between 1 and 10. The user should input the number of questions
 # they want to attempt.
 
+import random
 Quest = input("How much questions you want to attempt?")
 for i in range(int(Quest) + 1):
     print()
