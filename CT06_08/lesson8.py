@@ -8,7 +8,7 @@
 # 1. Using a for loop, ask the user for 5 numbers one at a time.
 # 2. Calculate the multiplication for these 5 numbers and print
 #    it out.
-first = input("Choose your first number.")
+first = input("What is number .")
 second = input("Choose your second number.")
 third = input("Choose your third number.")
 fourth = input("Choose your fourth number.")
