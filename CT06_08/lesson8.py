@@ -136,4 +136,4 @@
 import random
 guess = input("What is your guess? (the number is between 1 and 10)")
 num1 = random.randint(2, 9)
-print 
+print(guess == num1)
