@@ -31,7 +31,7 @@
 #     print(i)
 #     time.sleep(1)
 
-import time
-for i in range(int(input("Starting number.")), int(input("Ending number")) - 1, -1):
-    print(i)
+# import time
+# for i in range(int(input("Starting number.")), int(input("Ending number")) - 1, -1):
+#     print(i)
     time.sleep(1)
