@@ -158,5 +158,5 @@ Quest = input("How much questions you want to attempt?")
 for i in range(int(Quest)):
     x = (random.randint(2, 9))
     y = (random.randint(2, 9))
-    z = input("What is" + x + "x" + y + "?")
+    z = input("What is" + str(x) + "x" + y + "?")
     print(int(z) == y * x)
