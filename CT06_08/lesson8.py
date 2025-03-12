@@ -118,6 +118,8 @@
 # y = input("smaller number")
 # z = input("bigger number")
 # print(int(y) <= x <= int(z))
+# or
+#
 
 ## Task 5: Random Number Guessing Game
 
@@ -136,4 +138,4 @@
 # import random
 # guess = input("What is your guess? (the number is between 1 and 10)")
 # num1 = random.randint(2, 9)
-print(guess == num1)
+# print(guess == num1)
