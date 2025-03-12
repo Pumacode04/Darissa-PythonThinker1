@@ -21,3 +21,4 @@
 # function to create a 10 seconds countdown timer that counts
 # to 1, printing the number of seconds remaining every second.
 
+import time
