@@ -9,6 +9,7 @@
 # 2. Calculate the multiplication for these 5 numbers and print
 #    it out.
 first = input("What is number #1.")
-second = input("Wha.")
-third = input("Choose your third number.")
-fourth = input("Choose your fourth number.")
+second = input("What is number #2.")
+third = input("What is number #3.")
+fourth = input("What is number #4.")
+fifth = input("What is number #5.")
