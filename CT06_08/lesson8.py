@@ -10,4 +10,4 @@
 #    it out.
 for i in range(1, 6) :
     number = input("What is your #" + str(i))
-    number 
+    number = 
