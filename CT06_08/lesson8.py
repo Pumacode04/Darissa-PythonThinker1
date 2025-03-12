@@ -156,4 +156,4 @@
 import random
 Quest = input("How much questions you want to attempt?")
 for i in range(int(Quest) + 1):
-    print(random.randint())
+    print(random.randint(2, 9))
