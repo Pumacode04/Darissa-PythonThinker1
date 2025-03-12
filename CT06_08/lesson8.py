@@ -10,4 +10,4 @@
 #    it out.
 first = input("Choose your first number.")
 second = input("Choose your second number.")
-th
+third = input("")
