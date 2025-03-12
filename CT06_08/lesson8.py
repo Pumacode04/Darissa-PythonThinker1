@@ -135,4 +135,4 @@
 
 import random
 guess = input("What is your guess? (the number is from 1 -10)")
-num1 = random.randint(2)
+num1 = random.randint(2, 9)
