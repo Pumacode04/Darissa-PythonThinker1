@@ -97,5 +97,5 @@
 import random
 x = random.randint(2, 49)
 y = random.randint(2, 49)
-z = input("What is " + str(x) + " x " + str(y) + "?")
-print(str(z == x * y))
+z = input("What is " + str(x) + " + " + str(y) + "?")
+print(str(z == x + y))
