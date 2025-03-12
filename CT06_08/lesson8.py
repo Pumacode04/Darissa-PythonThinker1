@@ -79,3 +79,18 @@
 # y = 2
 # print(x == y)
 
+
+## Task 4:
+
+# **Task 4a**: Math Question Generator
+# Using the 'random' library, generate 2 numbers between 1 and 50
+# that the user must add together.
+
+# The output should be one of the following:
+# 1. True (If the answer is correct)
+# 2. False (If the answer is wrong)
+
+# Example:
+# What is 2 + 5? << 7 >>
+# True
+
