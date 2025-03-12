@@ -46,5 +46,6 @@
 # Using the 'random' library, create 20 numbers between 0 and
 # 9999 randomly.
 
-import random
-print(random.randint(2, 5))
+# import random
+# print(random.randint(2, 5))
+
