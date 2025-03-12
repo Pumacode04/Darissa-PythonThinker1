@@ -95,3 +95,4 @@
 # True
 
 import random
+x = random,
