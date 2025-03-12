@@ -21,4 +21,7 @@
 # function to create a 10 seconds countdown timer that counts
 # to 1, printing the number of seconds remaining every second.
 
-import time
+# **Task 1b**:
+# Modify your code from Task 1a to include an 'input()' function
+# asking the user for the number to countdown from, before
+# counting down every second from the number given by the user.
