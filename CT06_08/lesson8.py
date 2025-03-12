@@ -119,7 +119,7 @@
 # z = input("bigger number")
 # print(int(y) <= x <= int(z))
 # or
-#
+# print(x )
 
 ## Task 5: Random Number Guessing Game
 
@@ -139,3 +139,16 @@
 # guess = input("What is your guess? (the number is between 1 and 10)")
 # num1 = random.randint(2, 9)
 # print(guess == num1)
+
+
+## Task 6: Random Multiplication Quiz
+
+# You have been tasked by Ms Tan, the Math teacher to create a
+# multiplication quiz.
+
+# Create a program that generates a certain number of random
+# multiplication questions.
+
+# Each question should involve multiplying 2 random numbers
+# between 1 and 10. The user should input the number of questions
+# they want to attempt.
