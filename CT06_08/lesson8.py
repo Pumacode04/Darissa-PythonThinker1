@@ -133,8 +133,7 @@
 # 1. True (If the answer is correct)
 # 2. False (If the answer is wrong)
 
-import random
-guess = input("What is your guess? (the number is between 1 and 10)")
-num1 = random.randint(2, 9)
-print(num1)
+# import random
+# guess = input("What is your guess? (the number is between 1 and 10)")
+# num1 = random.randint(2, 9)
 print(guess == num1)
