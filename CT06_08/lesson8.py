@@ -71,6 +71,6 @@
 # Print out the result of comparing the 2 variables using
 # the "==" operator.
 
-x = 5
-y = 6
+# x = 5
+# y = 6
 print(x == y)
