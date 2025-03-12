@@ -133,4 +133,4 @@
 # 1. True (If the answer is correct)
 # 2. False (If the answer is wrong)
 
-guess = input("What is your guess")
+guess = input("What is your guess? ()")
