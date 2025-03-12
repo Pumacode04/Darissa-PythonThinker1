@@ -35,3 +35,14 @@
 # for i in range(int(input("Starting number.")), int(input("Ending number")) - 1, -1):
 #     print(i)
 #     time.sleep(1)
+
+## Task 2: 'random' library
+
+# **Task 2a**:
+# Import the 'random' library and create a program that randomly
+# output a number between 1 to 6
+
+# **Task 2b**:
+# Using the 'random' library, create 20 numbers between 0 and
+# 9999 randomly.
+
