@@ -47,3 +47,4 @@
 # 9999 randomly.
 
 import random
+print
