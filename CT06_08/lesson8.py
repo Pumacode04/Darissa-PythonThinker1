@@ -114,4 +114,4 @@
 # 2. False (If the answer is wrong)
 
 import random
-x = random.randint()
+x = random.randint(2, 49)
