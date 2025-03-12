@@ -10,7 +10,7 @@
 #    it out.
 # product = 1
 # for i in range(1, 6) :
-#     number = input("What is your #" + str(i))
+#     number = input("What is number #" + str(i))
 #     product = int(number) * product
 # print(product)
 
