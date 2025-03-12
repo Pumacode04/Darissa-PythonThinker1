@@ -9,3 +9,5 @@
 # 2. Calculate the multiplication for these 5 numbers and print
 #    it out.
 first = input("Choose your first number.")
+second = input("Choose your second number.")
+thri
