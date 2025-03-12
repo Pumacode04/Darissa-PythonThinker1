@@ -14,3 +14,10 @@
 #     product = int(number) * product
 # print(product)
 
+## Task 1: 'time' library
+
+# **Task 1a**:
+# Import the 'time' library and make use of the 'time.sleep()'
+# function to create a 10 seconds countdown timer that counts
+# to 1, printing the number of seconds remaining every second.
+
