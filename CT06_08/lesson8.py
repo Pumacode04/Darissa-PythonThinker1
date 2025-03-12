@@ -32,6 +32,6 @@
 #     time.sleep(1)
 
 import time
-for i in range(int(input("Starting number.")), int(input("Ending number")) - 1, ):
+for i in range(int(input("Starting number.")), int(input("Ending number")) - 1, int(input(""))):
     print(i)
     time.sleep(1)
