@@ -158,4 +158,4 @@ Quest = input("How much questions you want to attempt?")
 for i in range(int(Quest) + 1):
     x = (random.randint(2, 9))
     y = (random.randint(2, 9))
-    z = input
+    z = input("")
