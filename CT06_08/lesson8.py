@@ -72,3 +72,5 @@
 # the "==" operator.
 
 x = 5
+y = 6
+x 
