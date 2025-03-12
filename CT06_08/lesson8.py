@@ -95,4 +95,4 @@
 # True
 
 import random
-x = random,randint
+x = random.randint()
