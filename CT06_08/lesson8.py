@@ -119,7 +119,7 @@
 # z = input("bigger number")
 # print(int(y) <= x <= int(z))
 # or
-# print(x <= )
+# print(x <= z and )
 
 ## Task 5: Random Number Guessing Game
 
