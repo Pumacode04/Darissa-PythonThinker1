@@ -153,4 +153,4 @@
 # between 1 and 10. The user should input the number of questions
 # they want to attempt.
 
-Quest = input("How much ")
+Quest = input("How much questions you want to attempt?")
