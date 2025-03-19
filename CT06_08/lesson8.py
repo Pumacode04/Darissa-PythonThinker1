@@ -177,3 +177,16 @@
 # Hi = int(Key) % 2
 # print(Hi == 0)
 
+## Task 8: Multiple Check Program
+
+# Create a program where the user enters 2 numbers. The
+# program then checks if the first number is a multiple of
+# the second number.
+
+# Your program needs to:
+# 1. Get user to input 2 numbers.
+# 2. Check if there is any remainder when number #1 is divided
+#    by number #2
+# 3. Print 'True' if number #1 is a multiple of number #2,
+#    otherwise print 'False'.
+
