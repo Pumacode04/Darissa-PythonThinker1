@@ -161,4 +161,3 @@
 #     z = input("What is " + str(x) + " x " + str(y) + "?")
 #     print(int(z) == y * x)
 
-hehhehehehehhheehh
