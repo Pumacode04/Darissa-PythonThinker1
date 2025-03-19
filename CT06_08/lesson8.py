@@ -174,4 +174,4 @@
 # 3. Print 'True' if number is even, otherwise print 'False'.
 
 Key = input("Choose a number.")
-Hi = Key % 2
+Hi = int(Key) % 2
