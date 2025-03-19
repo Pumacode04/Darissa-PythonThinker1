@@ -190,3 +190,4 @@
 # 3. Print 'True' if number #1 is a multiple of number #2,
 #    otherwise print 'False'.
 
+BNum = input()
