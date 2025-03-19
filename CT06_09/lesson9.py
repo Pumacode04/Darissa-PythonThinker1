@@ -24,9 +24,9 @@ import random
 x = random.randint(1, 6)
 y = random.randint(1, 6)
 z = random.randint(1, 6)
-print("1st number:" + (x))
-print("2nd number:" + (y))
-print("3rd number:" + (z))
+print("1st number:" + str(x))
+print("2nd number:" + str(y))
+print("3rd number:" + str(z))
 b = 0
 b = b + (x) % 2
 b = b + (y) % 2
