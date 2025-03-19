@@ -173,6 +173,6 @@
 #    by 2 (using '%').
 # 3. Print 'True' if number is even, otherwise print 'False'.
 
-Key = input("Choose a number.")
-Hi = int(Key) % 2
-print(Hi == 0)
+# Key = input("Choose a number.")
+# Hi = int(Key) % 2
+# print(Hi == 0)
