@@ -28,8 +28,8 @@ print("1st number:" + (x))
 print("2nd number:" + (y))
 print("3rd number:" + (z))
 b = 0
-b = b + x % 2
-b = b + y % 2
+b = b + int(x) % 2
+b = b + int(y) % 2
 b = b + z % 2
 c = b == 0
 print("")
