@@ -190,7 +190,7 @@
 # 3. Print 'True' if number #1 is a multiple of number #2,
 #    otherwise print 'False'.
 
-BNum = input("Choose a number.")
-SNum = input("Choose a number that is smaller than the previous one.")
-Difference = int(BNum) % int(SNum)
-print(Difference == 0)
+# BNum = input("Choose a number.")
+# SNum = input("Choose a number that is smaller than the previous one.")
+# Difference = int(BNum) % int(SNum)
+# print(Difference == 0)
