@@ -25,11 +25,20 @@
 # y = random.randint(1, 6)
 # z = random.randint(1, 6)
 # print("1st number:" + str(x))
-print("2nd number:" + str(y))
-print("3rd number:" + str(z))
-b = 0
-b = b + (x) % 2
-b = b + (y) % 2
-b = b + (z) % 2
+# print("2nd number:" + str(y))
+# print("3rd number:" + str(z))
+# b = 0
+# b = b + (x) % 2
+# b = b + (y) % 2
+# b = b + (z) % 2
 c = b == 0 or b == 3
 print("All numbers are even/odd is " + str(c))
+
+# Teacher solution
+# import random
+# num1, num2, num3 = random.randint(1,6), random.randint(1,6), random.randint(1,6)
+# print("1st number: " + str(num1))
+# print("2nd number: " + str(num2))
+# print("3rd number: " + str(num3))
+# all_even_odd = (num1 % 2 == 0 and num2 % 2 == 0 and num3 % 2 == 0) or (num1 % 2 == 1 and num2 % 2 == 1 and num3 % 2 == 1)
+# print("All numbers are even/odd is " + str(all_even_odd))
