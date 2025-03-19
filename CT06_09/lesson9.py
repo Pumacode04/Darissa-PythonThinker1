@@ -21,4 +21,4 @@
 # 6. Print if "All numbers are even/odd" is 'True' or 'False'
 
 import random
-x = random
+x = random.randint(1, 6)
