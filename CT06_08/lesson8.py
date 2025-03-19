@@ -175,4 +175,4 @@
 
 Key = input("Choose a number.")
 Hi = int(Key) % 2
-print(Hi)
+print(Hi == 0)
