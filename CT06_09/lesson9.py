@@ -29,5 +29,6 @@ print("2nd number:" + (y))
 print("3rd number:" + (z))
 b = 0
 b = b + x % 2
-b
+b = b + y % 2
+b = b + z 
 print(b == 0)
