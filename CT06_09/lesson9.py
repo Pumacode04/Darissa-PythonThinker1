@@ -20,11 +20,11 @@
 #    even or all odd numbers.
 # 6. Print if "All numbers are even/odd" is 'True' or 'False'
 
-import random
-x = random.randint(1, 6)
-y = random.randint(1, 6)
-z = random.randint(1, 6)
-print("1st number:" + str(x))
+# import random
+# x = random.randint(1, 6)
+# y = random.randint(1, 6)
+# z = random.randint(1, 6)
+# print("1st number:" + str(x))
 print("2nd number:" + str(y))
 print("3rd number:" + str(z))
 b = 0
