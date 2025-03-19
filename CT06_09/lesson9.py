@@ -31,5 +31,5 @@ b = 0
 b = b + (x) % 2
 b = b + (y) % 2
 b = b + (z) % 2
-c = b == 0
+c = b == 0 or b == 3
 print("All numbers are even/odd is " + str(c))
