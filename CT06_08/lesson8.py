@@ -191,4 +191,4 @@
 #    otherwise print 'False'.
 
 BNum = input("Choose a number.")
-SNum =input()
+SNum =input("Choose a number t")
