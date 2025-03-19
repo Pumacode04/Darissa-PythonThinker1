@@ -27,4 +27,7 @@ z = random.randint(1, 6)
 print("1st number:" + int(x))
 print("2nd number:" + int(y))
 print("3rd number:" + int(z))
-Hi 
+for i in range(3):
+    b = 0
+    b = b + x % 2
+    
