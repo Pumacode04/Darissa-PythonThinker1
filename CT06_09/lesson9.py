@@ -30,6 +30,6 @@ print("3rd number:" + (z))
 b = 0
 b = b + int(x) % 2
 b = b + int(y) % 2
-b = b + z % 2
+b = b + int(z) % 2
 c = b == 0
 print("")
