@@ -30,4 +30,4 @@ print("3rd number:" + int(z))
 for i in range(3):
     b = 0
     b = b + x % 2
-print()
+print(b == 0)
