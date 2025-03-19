@@ -32,4 +32,4 @@ b = b + int(x) % 2
 b = b + int(y) % 2
 b = b + int(z) % 2
 c = b == 0
-print("")
+print("All ")
