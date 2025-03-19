@@ -32,4 +32,4 @@ b = b + (x) % 2
 b = b + (y) % 2
 b = b + (z) % 2
 c = b == 0
-print("All numbers are even is " + str(c))
+print("All numbers are even/odd is " + str(c))
