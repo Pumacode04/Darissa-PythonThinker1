@@ -191,5 +191,5 @@
 #    otherwise print 'False'.
 
 BNum = input("Choose a number.")
-SNum =input("Choose a number that is smaller than the previous one.")
-Hi =
+SNum = input("Choose a number that is smaller than the previous one.")
+Difference = int(BNum)
