@@ -26,4 +26,4 @@
 #     print "Oops, better luck next time!"
 
 import random
-r
+ran = random.randint
