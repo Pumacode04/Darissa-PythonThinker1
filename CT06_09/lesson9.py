@@ -80,9 +80,9 @@
 #    that day's savings.
 # 5. After the loop, print the sum of savings for that week
 
-savings = 0
+sum = 0
 for i in range(7):
-    Hi = input("What is your savings for today?")
-    if int(Hi) > 0: 
-        savings = int(Hi) + savings
-print(savings)
+    savings = input("What is your savings for today?")
+    if int(savings) > 0: 
+        sum = int(savings) + sum
+print(sum)
