@@ -86,3 +86,6 @@
 #      else:
 #         print("Adult")
 
+age = int(input("How old are you?"))
+if age <= 12:
+    
