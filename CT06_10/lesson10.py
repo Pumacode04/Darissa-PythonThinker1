@@ -42,7 +42,7 @@
 # 4. If the password does not match, print "Password Incorrect"
 
 password = "passme"
-guess = input("What is the password?")
+guess = input("What is the password? ")
 if guess == password:
     print("Login successful!")
 else:
