@@ -40,3 +40,5 @@
 # 2. Ask the user to enter a password
 # 3. If the password matches, print "Login Successful"
 # 4. If the password does not match, print "Password Incorrect"
+
+password = "passme"
