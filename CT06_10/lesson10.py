@@ -83,4 +83,5 @@ if int(age) <= 13:
 else:
      if int(age) <= 20 and int(age) >= 12:
         print("Teen")
-    
+    else:
+        print("Adult")
