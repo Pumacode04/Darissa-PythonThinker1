@@ -12,4 +12,4 @@ int(num = input("Choose a number."))
 if num < 0:
     print("Positive")
 else:
-    print()
+    print("Negative")
