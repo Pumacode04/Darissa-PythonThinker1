@@ -59,3 +59,5 @@
 # 4. If the number is odd, print "This number is odd"
 
 num = input("Choose any number.")
+if num % 2 == 1:
+    print("This number is odd")
