@@ -81,3 +81,5 @@
 # 5. After the loop, print the sum of savings for that week
 
 savings = 0
+for i in range(7):
+    savings = savings + input
