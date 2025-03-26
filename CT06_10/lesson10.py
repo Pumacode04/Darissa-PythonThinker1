@@ -46,7 +46,7 @@
 # if guess == password:
 #     print("Login successful!")
 # else:
-    print("Password incorrect!")
+#     print("Password incorrect!")
 
 # Task 4: Even or Odd?
 # Code a program to tell the user if a number is even or odd
@@ -57,3 +57,5 @@
 #    divided by 2)
 # 3. If the number is even, print "This number is even"
 # 4. If the number is odd, print "This number is odd"
+
+num = input("Choose any number.")
