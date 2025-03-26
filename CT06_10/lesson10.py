@@ -43,7 +43,7 @@
 
 password = "passme"
 guess = input("What is the password?")
-if guess != password:
+if guess == password:
     print("Login successful!")
 else:
     print("Password incorrect!")
