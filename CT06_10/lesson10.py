@@ -27,4 +27,4 @@
 
 import random
 ran = random.randint(1, 10)
-num = input()
+num = input("Ch")
