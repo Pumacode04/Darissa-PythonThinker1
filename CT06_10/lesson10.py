@@ -9,3 +9,5 @@
 #         In this case, print "{number} is negative."
 
 int(num = input("Choose a number."))
+if num < 0:
+    print
