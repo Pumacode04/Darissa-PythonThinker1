@@ -8,7 +8,7 @@
 # 3. Use an 'else' statement for when the number is not greater than 0.
 #         In this case, print "{number} is negative."
 
-int(num = input("Choose a number."))
+num = input("Choose a number.")
 if num < 0:
     print("Positive")
 else:
