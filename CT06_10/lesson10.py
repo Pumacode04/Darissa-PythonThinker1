@@ -31,4 +31,4 @@ num = input("Choose a number between 1-10")
 if int(num) == ran:
     print("Cogratulations! You did it!")
 else:
-    print
+    print("Opps, better luck next time!")
