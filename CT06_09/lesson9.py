@@ -83,5 +83,6 @@
 savings = 0
 for i in range(7):
     Hi = input("What is your savings for today?")
-    if int(Hi) > 0: savings = int(Hi) + savings
+    if int(Hi) > 0: 
+        savings = int(Hi) + savings
 print(savings)
