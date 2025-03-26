@@ -86,10 +86,10 @@
 #      else:
 #         print("Adult")
 
-age = int(input("How old are you?"))
-if age <= 12:
-    print("Child")
-elif age <= 19:
-    print("Teen")
-else:
-    print("Adult")
+# age = int(input("How old are you?"))
+# if age <= 12:
+#     print("Child")
+# elif age <= 19:
+#     print("Teen")
+# else:
+#     print("Adult")
