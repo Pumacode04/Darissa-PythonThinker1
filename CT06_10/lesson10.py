@@ -9,7 +9,7 @@
 #         In this case, print "{number} is negative."
 
 num = input("Choose a number.")
-if int(num) < 0:
+if int(num) > 0:
     print("Positive")
 else:
     print("Negative")
