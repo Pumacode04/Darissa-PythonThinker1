@@ -29,4 +29,4 @@ import random
 ran = random.randint(1, 10)
 num = input("Choose a number between 1-10")
 if int(num) != ran:
-    print("")
+    print("Cogratulations!")
