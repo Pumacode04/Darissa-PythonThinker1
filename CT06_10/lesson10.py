@@ -58,8 +58,25 @@
 # 3. If the number is even, print "This number is even"
 # 4. If the number is odd, print "This number is odd"
 
-num = input("Choose any number.")
-if int(num) % 2 == 1:
-    print("This number is odd")
-else:
-    print("This numvber is even")
+# num = input("Choose any number.")
+# if int(num) % 2 == 1:
+#      print("This number is odd")
+# else:
+#     print("This numvber is even")
+
+# Task 5: Simple Age Checker (nested if..else)
+# Using nested if..else condition, write a program that categorizes
+# a person's age as 'Child', 'Teen', or 'Adult'.
+
+# 1. Initialize an 'age' variable and ask user for their age.
+# 2. Use an 'if' statement to check if the age is less than 13.
+#         If true, print "Child"
+# 3. Within the 'else' statement of the 1st 'if' statement, use
+#    another 'if' statement to check if the age is between 13 and 19.
+#         If true, print "Teen"
+# 4. Else:
+#         Print "Adult"
+
+age = input("How old are you?")
+if int(age) <= 13:
+     print("Child")
