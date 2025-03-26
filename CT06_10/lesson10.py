@@ -42,3 +42,4 @@
 # 4. If the password does not match, print "Password Incorrect"
 
 password = "passme"
+guess = input
