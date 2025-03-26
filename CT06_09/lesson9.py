@@ -80,3 +80,4 @@
 #    that day's savings.
 # 5. After the loop, print the sum of savings for that week
 
+savings = 0
