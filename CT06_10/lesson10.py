@@ -41,9 +41,19 @@
 # 3. If the password matches, print "Login Successful"
 # 4. If the password does not match, print "Password Incorrect"
 
-password = "passme"
+# password = "passme"
 guess = input("What is the password? ")
 if guess == password:
     print("Login successful!")
 else:
     print("Password incorrect!")
+
+# Task 4: Even or Odd?
+# Code a program to tell the user if a number is even or odd
+
+# 1. Ask the user to input a number
+# 2. Using the '%' operator, find out if a number is divisible by 2
+#    (A number that is divisible by 2 will leave no remainder when
+#    divided by 2)
+# 3. If the number is even, print "This number is even"
+# 4. If the number is odd, print "This number is odd"
