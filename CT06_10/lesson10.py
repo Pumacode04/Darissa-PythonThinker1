@@ -25,3 +25,5 @@
 # 4. If the user guesses wrongly: 
 #     print "Oops, better luck next time!"
 
+import random
+r
