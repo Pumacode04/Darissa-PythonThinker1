@@ -44,4 +44,4 @@
 password = "passme"
 guess = input("What is the password?")
 if guess != password:
-    print
+    print("Login su")
