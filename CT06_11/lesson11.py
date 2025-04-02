@@ -76,4 +76,5 @@
 
 age = int(input("Age."))
 if age <= 12 or age >= 65:
-    print()
+    print("True")
+else
