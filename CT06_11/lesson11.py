@@ -102,4 +102,4 @@
 # 3. If true, display "Access Denied."
 
 password = "pw123"
-pass = input("")
+passs = input("Password.")
