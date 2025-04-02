@@ -16,4 +16,4 @@ if int(px) <= 5:
 elif int(px) <= 50:
     print("Are you sure you need this?")
 elif int(px) <= 500:
-    print
+    print("Where are you getting this money from?!")
