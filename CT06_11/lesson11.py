@@ -42,7 +42,7 @@
 #     print "The number is divisible by 3 and 7!"
 
 num = int(input("Choose a number"))
-if num % 3 and num % 7 == 0:
+if num % 3 == 0 and num % 7 == 0:
     print("True")
 else:
     print("False")
