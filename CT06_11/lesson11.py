@@ -30,3 +30,5 @@
 # rider2 = 150
 # >> True
 
+rider1 = 125
+rider2 = 150
