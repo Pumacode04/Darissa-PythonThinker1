@@ -41,7 +41,7 @@
 # 2. If the number is both a multiple of 3 and a multiple of 7:
 #     print "The number is divisible by 3 and 7!"
 
-if num % 3 == 0 and num % 7 == 0:
-    print("True")
-else:
-    print("False")
+# if num % 3 == 0 and num % 7 == 0:
+#     print("True")
+# else:
+#     print("False")
