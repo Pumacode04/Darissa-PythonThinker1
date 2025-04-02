@@ -89,6 +89,6 @@
 # 2. Using the 'not' operator, check if input is not "Green".
 #    If true, print "Try again"
 
-colour = input("Choose a colour.")
-if not (colour =="green"):
-    print("Try again.")
+# colour = input("Choose a colour.")
+# if not (colour =="green"):
+#     print("Try again.")
