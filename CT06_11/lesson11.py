@@ -74,8 +74,8 @@
 #    more than 65. If true, print "Ticket price: $15"
 # 3. Else, print "Ticket price: $20"
 
-age = int(input("Age."))
-if age < 12 or age > 65:
-    print("Ticket price: $15")
-else:
-    print("Ticket price: $20")
+# age = int(input("Age."))
+# if age < 12 or age > 65:
+#     print("Ticket price: $15")
+# else:
+#     print("Ticket price: $20")
