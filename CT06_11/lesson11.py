@@ -10,8 +10,8 @@
 #     px <= 500: "Where are you getting this money from?!"
 #     px > 500: "Don't even think about it!"
 
-int(px = input("Cost of your item?"))
-if px <= 5:
+px = input("Cost of your item?")
+if int(px) <= 5:
     print("Sounds good!")
 elif px <= 50:
     print("Are you sure you need this?")
