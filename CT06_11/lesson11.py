@@ -30,6 +30,6 @@
 # rider2 = 150
 # >> True
 
-rider1 = 120
+rider1 = 119
 rider2 = 150
 print(rider1 and rider2 > 120)
