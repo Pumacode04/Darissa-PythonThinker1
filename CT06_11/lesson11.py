@@ -89,3 +89,4 @@
 # 2. Using the 'not' operator, check if input is not "Green".
 #    If true, print "Try again"
 
+colour = input
