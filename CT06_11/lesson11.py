@@ -30,6 +30,6 @@
 # rider2 = 150
 # >> True
 
-rider1 = 12
+rider1 = 120
 rider2 = 150
-print(rider1 and rider2 >= 120)
+print(rider1 and rider2 > 120)
