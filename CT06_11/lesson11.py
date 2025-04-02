@@ -10,12 +10,12 @@
 #     px <= 500: "Where are you getting this money from?!"
 #     px > 500: "Don't even think about it!"
 
-px = input("Cost of your item?")
-if int(px) <= 5:
-    print("Sounds good!")
-elif int(px) <= 50:
-    print("Are you sure you need this?")
-elif int(px) <= 500:
-    print("Where are you getting this money from?!")
-else : 
-    print("Don't even think about it!")
+# px = input("Cost of your item?")
+# if int(px) <= 5:
+#     print("Sounds good!")
+# elif int(px) <= 50:
+#     print("Are you sure you need this?")
+# elif int(px) <= 500:
+#     print("Where are you getting this money from?!")
+# else : 
+#     print("Don't even think about it!")
