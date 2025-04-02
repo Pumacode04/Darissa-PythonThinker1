@@ -61,4 +61,4 @@
 rider1 = 25
 rider2 = 26
 if rider1 >= 18 or rider2 >= 18:
-    print()
+    print("True")
