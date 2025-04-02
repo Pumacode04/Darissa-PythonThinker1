@@ -101,7 +101,7 @@
 # 2. Using the 'not' operator, check if the password is not "Python123".
 # 3. If true, display "Access Denied."
 
-password = "pw123"
+# password = "pw123"
 passs = input("Password.")
 if not (passs == password):
     print("Äccess denied")
