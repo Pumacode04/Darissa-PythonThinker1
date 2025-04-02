@@ -103,3 +103,5 @@
 
 password = "pw123"
 passs = input("Password.")
+if not (passs == password):
+    print("Äccess denied")
