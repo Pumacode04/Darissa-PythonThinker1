@@ -91,4 +91,4 @@
 
 colour = input("Choose a colour.")
 if colour (not "green"):
-    print("")
+    print("Try again.")
