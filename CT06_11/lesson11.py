@@ -80,3 +80,12 @@
 # else:
 #     print("Ticket price: $20")
 
+
+# Task 7: Colour filter (NOT)
+# Create a program that will ask the user for a colour and print
+# "Try again" if the input of the user is not "Green".
+
+# 1. Ask user for a colour
+# 2. Using the 'not' operator, check if input is not "Green".
+#    If true, print "Try again"
+
