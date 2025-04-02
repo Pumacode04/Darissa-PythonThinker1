@@ -58,3 +58,5 @@
 # rider2 = 6
 # >> True
 
+ride1 = 25
+rider2 = 26
