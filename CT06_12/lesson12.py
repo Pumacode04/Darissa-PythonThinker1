@@ -44,10 +44,9 @@
 # modify your answer for Task 1a to terminate the 'while' loop when
 # number of visitors is 30.
 
-people = 0
-while True :
-    if people == 30 :
-        break
-    else:
-        people += 1
-print("Visitors : " + str(people))
+# people = 0
+# while True :
+#     if people == 30 :
+#         break
+#     people += 1
+# print("Visitors : " + str(people))
