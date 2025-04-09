@@ -32,4 +32,5 @@
 # print("The venue is done")
 people = input("How many people you want?")
 maximum = input("How much people is the maximum")
-print("Vistors already present : " +)
+print("Vistors already present : " + people)
+print
