@@ -111,3 +111,4 @@
 # 3. Disqualify user when they have gotten the wrong answer or
 #    skipped more than 5 times.
 
+import random
