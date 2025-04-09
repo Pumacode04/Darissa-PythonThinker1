@@ -29,4 +29,4 @@ people = 0
 while people > 51 :
     print(people)
     people = people + 1
-print
+print("The venue is done")
