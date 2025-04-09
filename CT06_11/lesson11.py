@@ -121,11 +121,26 @@
 #     print "Access Denied" 
 # user = "John123"
 # password = "pw123"
-use = input("What is your username? ")
-passs = input("WHat is YOur PaSSwOrd ")
-if user == use and password == passs :
-    print("Access Granted")
-elif user == use or password == passs:
-    print("Either username or password is incorrect")
-else:
-    print("Access denied")
+# use = input("What is your username? ")
+# passs = input("WHat is YOur PaSSwOrd ")
+# if user == use and password == passs :
+#     print("Access Granted")
+# elif user == use or password == passs:
+#     print("Either username or password is incorrect")
+# else:
+#     print("Access denied")
+
+# Task 12: Game status report (OR, NOT)
+# Imagine you're programming a simple game. Write a conditional
+# statement that checks whether a variable 'game_status' is either
+# "active" or not "paused". Depending on the condition, print
+# appropriate messages: "Game in progress..." or "Game is paused or
+# inactive."
+
+# 1. Declare a variable game_status and assign it a value
+#    (e.g. "active").
+# 2. Use an 'if' statement to check if 'game_status' equals "active"
+#    OR if it's NOT equal to "paused" using the 'or' and 'not'
+#    logical operator.
+# 3. If the condition is 'True', print "Game in progress...".
+# 4. Otherwise, print "Game is paused or inactive."
