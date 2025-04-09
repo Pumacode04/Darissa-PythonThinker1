@@ -26,9 +26,7 @@
 # Visitors already present: 4
 # Max visitors allowed: 25
 # people = 50
-# while people < 51 :
-
-
+# while people < 50 :
 #     print(people)
 #     people += 1
 # print("The venue is done")
