@@ -1,2 +1,4 @@
 print("Hello from lesson 12")
-pe
+people = 0
+while people > 50 :
+    print()
