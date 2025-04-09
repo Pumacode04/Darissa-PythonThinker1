@@ -70,8 +70,9 @@
 
 order = ""
 hi = ""
-while hi != "end":
-    
+while True:
     hi = input("What is your order?")
+    if hi == "end" :
+        break
     order = order + hi + ", "
 print(order)
