@@ -70,4 +70,4 @@
 
 order = ""
 while not input("end"):
-    order = print("Enter your order")
+    order = order + input("Enter your order")
