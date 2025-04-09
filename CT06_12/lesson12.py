@@ -118,4 +118,4 @@ while True:
     ans = hi + hi2
     person = input("What is " + str(hi) + " + " + str(hi2) + " ")
     if person == ans:
-        break
+        print("Correct!")
