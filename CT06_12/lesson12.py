@@ -120,4 +120,5 @@ while True:
     if person == ans:
         print("Correct!")
     else:
-        print("Wrong!")
+        print("Wrong! Try again!")
+        
