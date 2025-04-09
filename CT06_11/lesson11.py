@@ -128,4 +128,4 @@ if user == use and password == passs :
 elif user == use or password == passs:
     print("Either username or password is incorrect")
 else:
-    print("Acess")
+    print("Access denied")
