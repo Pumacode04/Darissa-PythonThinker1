@@ -30,3 +30,4 @@
 #     print(people)
 #     people += 1
 # print("The venue is done")
+people = input()
