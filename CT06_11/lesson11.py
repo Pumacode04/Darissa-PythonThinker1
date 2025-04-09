@@ -121,8 +121,8 @@
 #     print "Access Denied" 
 user = "John123"
 password = "pw123"
-use = input("What is your username?")
-passs = input("WHat is YOur PaSSwOrd")
+use = input("What is your username? ")
+passs = input("WHat is YOur PaSSwOrd ")
 if user == use and password == passs :
     print("Access Granted")
 elif user == use or password == passs:
