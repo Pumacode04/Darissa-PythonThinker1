@@ -117,5 +117,5 @@ while True:
     hi2 = random.randint(1, 10)
     ans = hi + hi2
     person = input("What is " + str(hi) + " + " + str(hi2) + " ")
-    if person != ans:
+    if person == ans:
         break
