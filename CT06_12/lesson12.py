@@ -121,4 +121,4 @@ while True:
         print("Correct!")
     else:
         print("Wrong! Try again!")
-        
+        break
