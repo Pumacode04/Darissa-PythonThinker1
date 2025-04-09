@@ -70,5 +70,6 @@
 
 order = ""
 hi = ""
-while hi != end:
+while hi != "end":
     hi = input("What is your order?")
+    
