@@ -45,8 +45,8 @@
 # number of visitors is 30.
 
 people = 0
-while Tru :
+while True :
     if people == 30 :
         break
     else:
-        
+        people += 1
