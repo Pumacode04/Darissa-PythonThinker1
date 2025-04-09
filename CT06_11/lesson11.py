@@ -119,8 +119,8 @@
 #     print "Either username or password is incorrect"
 # 7. Otherwise:
 #     print "Access Denied" 
-user = "John123"
-password = "pw123"
+# user = "John123"
+# password = "pw123"
 use = input("What is your username? ")
 passs = input("WHat is YOur PaSSwOrd ")
 if user == use and password == passs :
