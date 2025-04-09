@@ -122,3 +122,4 @@ while True:
     else:
         print("Wrong! Try again!")
         break
+print(Ans)
