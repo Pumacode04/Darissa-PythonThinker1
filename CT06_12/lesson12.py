@@ -28,4 +28,4 @@
 people = 0
 while people > 50 :
     print(people)
-    
+    people = people + 1
