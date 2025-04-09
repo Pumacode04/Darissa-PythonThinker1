@@ -69,3 +69,5 @@
 #    either at the start or end of your sentence
 
 order = ""
+while not input("end"):
+    print("E")
