@@ -48,4 +48,5 @@ people = 0
 while Tru :
     if people == 30 :
         break
-    
+    else:
+        
