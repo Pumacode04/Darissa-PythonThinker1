@@ -112,3 +112,4 @@
 #    skipped more than 5 times.
 
 import random
+hi = random.randint(1, 10)
