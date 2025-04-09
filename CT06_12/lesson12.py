@@ -50,3 +50,4 @@ while True :
         break
     else:
         people += 1
+print("Visitors : ")
