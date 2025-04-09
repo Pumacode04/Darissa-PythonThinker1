@@ -69,5 +69,6 @@
 #    either at the start or end of your sentence
 
 order = ""
-while not input("end"):
-    order = order + input("Enter your order") + ","
+hi = ""
+while hi != end:
+    hi = input("What is your order?")
