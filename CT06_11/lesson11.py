@@ -145,3 +145,4 @@
 # 3. If the condition is 'True', print "Game in progress...".
 # 4. Otherwise, print "Game is paused or inactive."
 
+gameStat = "Active"
