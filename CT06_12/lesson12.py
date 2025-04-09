@@ -25,8 +25,8 @@
 # **Task 1c**:
 # Visitors already present: 4
 # Max visitors allowed: 25
-people = 0
-while people < 51 :
-    print(people)
+# people = 0
+# while people < 51 :
+#     print(people)
     people += 1
 print("The venue is done")
