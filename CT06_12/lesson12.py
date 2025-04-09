@@ -113,3 +113,4 @@
 
 import random
 hi = random.randint(1, 10)
+hi2 = random.randint(1, 10)
