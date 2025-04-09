@@ -112,7 +112,7 @@
 #    skipped more than 5 times.
 
 import random
-while True:
+while 0 == 0:
     hi = random.randint(1, 10)
     hi2 = random.randint(1, 10)
     ans = hi + hi2
