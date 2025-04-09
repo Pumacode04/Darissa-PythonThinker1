@@ -127,3 +127,5 @@ if user == use and password == passs :
     print("Access Granted")
 elif user == use or password == passs:
     print("Either username or password is incorrect")
+else:
+    print("Acess")
