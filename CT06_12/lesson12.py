@@ -72,4 +72,4 @@ order = ""
 hi = ""
 while hi != "end":
     hi = input("What is your order?")
-    order = order + hi + "'"
+    order = order + hi + ","
