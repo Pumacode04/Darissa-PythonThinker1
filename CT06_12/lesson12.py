@@ -70,4 +70,5 @@
 
 order = ""
 while not input("end"):
-    print("E")
+    print("Enter your order")
+    
