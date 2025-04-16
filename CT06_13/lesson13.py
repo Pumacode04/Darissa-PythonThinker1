@@ -28,8 +28,8 @@
 #    brand"
 
 # food = ["Apples", "Bread", "Carrots", "Dates", "Eggs", "Flour", "Grapes", "Honey"]
-# for foods in d:
-#     if grocery == "Apples":
+# for foods in food:
+#     if foods == "Apples":
 #         print(grocery + ": I need 5 of these")
 #     elif grocery == "Carrots":
 #         print(grocery + ": I need 3 of these")
