@@ -78,8 +78,6 @@ wants = input("What are you looking for?")
 for items in store:
     if wants == items:
         print("Yes we sell that.")
-        break
     else:
         print("Sorry, we dont have that.")
-        break
     
