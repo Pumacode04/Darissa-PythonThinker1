@@ -77,5 +77,7 @@ while True:
 wants = input("What are you looking for?")
 for items in store:
     if wants == items:
-        print()
+        print("Yes we sell that.")
+    else:
+        
     
