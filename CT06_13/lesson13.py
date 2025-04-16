@@ -69,5 +69,6 @@
 store = []
 while True:
     items = input("What does your store have?")
-    
+    if items != "end":
+        store.append
     
