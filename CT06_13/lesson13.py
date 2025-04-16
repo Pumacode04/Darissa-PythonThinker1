@@ -73,14 +73,14 @@
 #         store.append(items)
 #     else:
 #         break
-
+# Task 4b
 # wants = input("What are you looking for?")
 # for items in store:
 #     if wants == items:
 #         print("Yes we sell that.")
 #     else:
 #         print("Sorry, we dont have that.")
-#Task 4b (refer )
+
 # while True:
 #     ui = input("What are you looking for? ")
 #     if ui == "end":
