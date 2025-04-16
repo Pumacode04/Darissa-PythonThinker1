@@ -146,4 +146,6 @@
 #    and print "You have won the jackpot!"
 
 import random
-num = random.randint(1, 6)
+while True:
+    num = random.randint(1, 6)
+    
