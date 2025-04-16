@@ -28,5 +28,5 @@
 #    brand"
 
 food = ["Apples", "Bread", "Carrots", "Dates", "Eggs", "Flour", "Grapes", "Honey"]
-for something in food:
+for foods in food:
     print
