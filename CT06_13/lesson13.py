@@ -13,4 +13,4 @@
 food = ["Apples", "Bread", "Carrots", "Dates", "Eggs", "Flour", "Grapes", "Honey"]
 food[7] = "Herbs"
 print(food)
-food,append
+food,append("Ice")
