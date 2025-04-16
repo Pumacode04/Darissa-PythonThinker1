@@ -74,5 +74,5 @@ while True:
     else:
         break
 
-wn
+wants = input("What")
     
