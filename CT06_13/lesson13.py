@@ -10,4 +10,4 @@
 # 7. Grapes
 # 8. Honey
 
-food = [ "Apples", "Bread", "Carrots", "Dates", "Eggs", "Flour", "Grapes", "Honey"]
+food = ["Apples", "Bread", "Carrots", "Dates", "Eggs", "Flour", "Grapes", "Honey"]
