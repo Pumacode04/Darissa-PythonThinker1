@@ -30,3 +30,14 @@
 food = ["Apples", "Bread", "Carrots", "Dates", "Eggs", "Flour", "Grapes", "Honey"]
 for foods in food:
     print(foods = "")
+
+    
+# for grocery in groceries:
+#     if grocery == "Apples":
+#         print(grocery + ": I need 5 of these")
+#     elif grocery == "Carrots":
+#         print(grocery + ": I need 3 of these")
+#     elif grocery == "Grapes":
+#         print(grocery + ": Get the FarmFresh brand")
+#     else:
+#         print(grocery)
