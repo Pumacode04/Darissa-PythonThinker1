@@ -34,6 +34,6 @@
 #     elif foods == "Carrots":
 #         print(foods) + ": I need 3 of these")
 #     elif foods == "Grapes":
-#         print(grocery + ": Get the FarmFresh brand")
+#         print(foods) + ": Get the FarmFresh brand")
 #     else:
-#         print(grocery)
+#         print(foods)
