@@ -38,4 +38,4 @@
 #     else:
 #         print(foods)
 
-basket = 
+basket = []
