@@ -46,4 +46,4 @@ while True:
     else:
         break
 for foods in food:
-    print("I have bought " + food)
+    print("I have bought " + foods)
