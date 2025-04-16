@@ -27,11 +27,7 @@
 # 4. If name == "Grapes", print "<grocery name>: Get the FarmFresh
 #    brand"
 
-food = ["Apples", "Bread", "Carrots", "Dates", "Eggs", "Flour", "Grapes", "Honey"]
-for foods in food:
-    print(foods = "")
-
-    
+# food = ["Apples", "Bread", "Carrots", "Dates", "Eggs", "Flour", "Grapes", "Honey"]
 # for grocery in groceries:
 #     if grocery == "Apples":
 #         print(grocery + ": I need 5 of these")
