@@ -73,7 +73,7 @@
 #         store.append(items)
 #     else:
 #         break
-# Task 4b
+# Task 4b (refer to lines)
 # wants = input("What are you looking for?")
 # for items in store:
 #     if wants == items:
