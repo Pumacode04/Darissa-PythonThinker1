@@ -43,6 +43,6 @@ while True:
     food = input("What do you want to add?")
     if food != "end":
         basket.append(food)
-        
+        print("I have bought")
     else:
         break
