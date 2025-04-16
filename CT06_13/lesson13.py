@@ -73,5 +73,6 @@ while True:
         store.append(items)
     else:
         break
-    
+
+wn
     
