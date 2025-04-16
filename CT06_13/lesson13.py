@@ -41,4 +41,5 @@
 basket = []
 while True:
     food = input("What do you want to add?")
-    basket.append
+    
+    basket.append(food)
