@@ -38,12 +38,12 @@
 #     else:
 #         print(foods)
 
-basket = []
-while True:
-    food = input("What do you want to add?")
-    if food != "end":
-        basket.append(food)
-    else:
+# basket = []
+# while True:
+#     food = input("What do you want to add?")
+#     if food != "end":
+#         basket.append(food)
+#     else:
         break
 for food in basket:
     print("I have bought " + food)
