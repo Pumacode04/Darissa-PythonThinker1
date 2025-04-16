@@ -29,4 +29,4 @@
 
 food = ["Apples", "Bread", "Carrots", "Dates", "Eggs", "Flour", "Grapes", "Honey"]
 food,insert(0, "Apples : I need 5 of these")
-
+del
