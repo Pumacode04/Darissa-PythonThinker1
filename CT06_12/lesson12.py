@@ -145,11 +145,11 @@
 # 3. Break out of the 'while' loop if counter variable reaches 10
 #    and print "You have won the jackpot!"
 
-import random
-while True:
-    num = random.randint(1, 6)
-    if num == 4:
-        print(num)
-        break
-    else:
-        print(num)
+# import random
+# while True:
+#     num = random.randint(1, 6)
+#     if num == 4:
+#         print(num)
+#         break
+#     else:
+#         print(num)
