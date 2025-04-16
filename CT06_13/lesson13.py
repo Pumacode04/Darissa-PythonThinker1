@@ -81,3 +81,11 @@ for items in store:
     else:
         print("Sorry, we dont have that.")
     
+# while True:
+#     ui = input("What are you looking for? ")
+#     if ui == "end":
+#         break
+#     if ui in store:
+#         print("Yes we sell that")
+#     else:
+#         print("No, we don't sell that")
