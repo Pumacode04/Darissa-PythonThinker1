@@ -45,4 +45,5 @@ while True:
         basket.append(food)
     else:
         break
+for foods in food:
     print("I have bought " + food)
