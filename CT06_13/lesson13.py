@@ -39,3 +39,5 @@
 #         print(foods)
 
 basket = []
+while True:
+    basket = basket + input("")
