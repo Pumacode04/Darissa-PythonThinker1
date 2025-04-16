@@ -14,5 +14,5 @@ food = ["Apples", "Bread", "Carrots", "Dates", "Eggs", "Flour", "Grapes", "Honey
 food[7] = "Herbs"
 food.append("Ice")
 food.insert(1, "Bananas")
-
+food.pop(2)
 print(food)
