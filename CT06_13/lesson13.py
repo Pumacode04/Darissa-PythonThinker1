@@ -50,4 +50,4 @@
 
 store = []
 while True:
-    
+    items = input("Eh")
