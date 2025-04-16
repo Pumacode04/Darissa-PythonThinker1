@@ -15,6 +15,6 @@ food[7] = "Herbs"
 food.append("Ice")
 food.insert(1, "Bananas")
 food.pop(2)
-#/
+# OR
 # del(food[3])
 print(food)
