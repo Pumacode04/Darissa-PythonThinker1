@@ -149,7 +149,7 @@ import random
 while True:
     num = random.randint(1, 6)
     if num == 4:
-        print
+        print(num)
         break
     else:
-        print
+        print(num)
