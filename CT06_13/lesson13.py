@@ -74,12 +74,12 @@
 #     else:
 #         break
 
-wants = input("What are you looking for?")
-for items in store:
-    if wants == items:
-        print("Yes we sell that.")
-    else:
-        print("Sorry, we dont have that.")
+# wants = input("What are you looking for?")
+# for items in store:
+#     if wants == items:
+#         print("Yes we sell that.")
+#     else:
+#         print("Sorry, we dont have that.")
     
 # while True:
 #     ui = input("What are you looking for? ")
