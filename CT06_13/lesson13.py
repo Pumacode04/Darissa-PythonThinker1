@@ -66,13 +66,13 @@
 # 2. If the item is in the list, say "Yes we sell that."
 # 3. Else, say "Sorry, we don't have that."
 
-store = []
-while True:
-    items = input("What does your store have?")
-    if items != "end":
-        store.append(items)
-    else:
-        break
+# store = []
+# while True:
+#     items = input("What does your store have?")
+#     if items != "end":
+#         store.append(items)
+#     else:
+#         break
 
 wants = input("What are you looking for?")
 for items in store:
