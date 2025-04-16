@@ -45,3 +45,4 @@ while True:
         basket.append(food)
     else:
         break
+print(basket)
