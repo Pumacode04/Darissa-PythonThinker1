@@ -79,5 +79,5 @@ for items in store:
     if wants == items:
         print("Yes we sell that.")
     else:
-        
+        print("Sorry, we dont have that.")
     
