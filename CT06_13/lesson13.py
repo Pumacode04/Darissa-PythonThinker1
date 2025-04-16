@@ -26,3 +26,6 @@
 #    these"
 # 4. If name == "Grapes", print "<grocery name>: Get the FarmFresh
 #    brand"
+
+food = ["Apples", "Bread", "Carrots", "Dates", "Eggs", "Flour", "Grapes", "Honey"]
+# food[7] = "Herbs"
