@@ -11,5 +11,4 @@
 # 8. Honey
 
 food = [ "Apples", "Bread", "Carrots", "Dates", "Eggs", "Flour", "Grapes", "Honey"]
-for i in range(1,9):
-    print(str(i))
+print(food)
