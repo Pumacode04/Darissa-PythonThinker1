@@ -47,3 +47,7 @@
 #         break
 # for food in basket:
 #     print("I have bought " + food)
+
+store = []
+while True:
+    
