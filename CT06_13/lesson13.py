@@ -74,5 +74,8 @@ while True:
     else:
         break
 
-wants = input("What")
+wants = input("What are you looking for?")
+for items in store:
+    if wants == items:
+        print()
     
