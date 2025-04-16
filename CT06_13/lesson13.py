@@ -44,6 +44,6 @@
 #     if food != "end":
 #         basket.append(food)
 #     else:
-        break
-for food in basket:
-    print("I have bought " + food)
+#         break
+# for food in basket:
+#     print("I have bought " + food)
