@@ -14,10 +14,10 @@
 # food[7] = "Herbs"
 # food.append("Ice")
 # food.insert(1, "Bananas")
-food.pop(2)
+# food.pop(2)
 # OR
 # del(food[2])
-print(food)
+# print(food)
 
 # Task 2: List of groceries (part 2)
 # 1. Use a 'for' loop and print out all the groceries on your list
