@@ -30,7 +30,7 @@
 # food = ["Apples", "Bread", "Carrots", "Dates", "Eggs", "Flour", "Grapes", "Honey"]
 # for foods in food:
 #     if foods == "Apples":
-#         print( + ": I need 5 of these")
+#         print(foods) + ": I need 5 of these")
 #     elif foods == "Carrots":
 #         print(grocery + ": I need 3 of these")
 #     elif foods == "Grapes":
