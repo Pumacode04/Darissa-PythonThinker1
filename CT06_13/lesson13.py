@@ -41,4 +41,3 @@
 basket = []
 while True:
     basket = basket + input("What do you want to add?")
-    
