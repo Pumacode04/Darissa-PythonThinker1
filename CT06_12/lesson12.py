@@ -111,14 +111,14 @@
 # 3. Disqualify user when they have gotten the wrong answer or
 #    skipped more than 5 times.
 
-import random
-while True:
-    hi = random.randint(1, 10)
-    hi2 = random.randint(1, 10)
-    ans = hi + hi2
-    person = input("What is " + str(hi) + " + " + str(hi2) + " ")
-    if person == ans:
-        print("Correct!")
-    else:
-        print("Wrong! Try again!")
-        break
+# import random
+# while True:
+#     hi = random.randint(1, 10)
+#     hi2 = random.randint(1, 10)
+#     ans = hi + hi2
+#     person = input("What is " + str(hi) + " + " + str(hi2) + " ")
+#     if int(person) == ans:
+#         print("Correct!")
+#     else:
+#         print("Wrong! Try again!")
+#         break
