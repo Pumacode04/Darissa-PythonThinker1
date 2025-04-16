@@ -48,7 +48,26 @@
 # for food in basket:
 #     print("I have bought " + food)
 
+# Task 4: Online Catalogue
+# **Task 4a**:
+# Write a program to create an online catalogue for a grocery store.
+
+# 1. Using a 'while' loop, ask the user (grocery store manager) to
+#    input the items their online catalogue should have.
+# 3. Add each item into the catalogue list
+# 4. End the loop when the user types "end"
+
+# **Task 4b**:
+# Based on the list created by the grocery store manager, do the
+# following:
+
+# 1. Imagine a customer browsing the website of the grocery store.
+#    Ask the customer: "What are you looking for?"
+# 2. If the item is in the list, say "Yes we sell that."
+# 3. Else, say "Sorry, we don't have that."
+
 store = []
 while True:
-    items = input("Ehat does your store have?")
+    items = input("What does your store have?")
+    
     
