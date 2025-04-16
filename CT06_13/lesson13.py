@@ -81,5 +81,5 @@ for items in store:
         break
     else:
         print("Sorry, we dont have that.")
-        
+        break
     
