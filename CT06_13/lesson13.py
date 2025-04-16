@@ -29,4 +29,4 @@
 
 food = ["Apples", "Bread", "Carrots", "Dates", "Eggs", "Flour", "Grapes", "Honey"]
 for i in range(len.food):
-    print
+    print()
