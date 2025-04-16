@@ -11,3 +11,4 @@
 # 8. Honey
 
 food = ["Apples", "Bread", "Carrots", "Dates", "Eggs", "Flour", "Grapes", "Honey"]
+food[7]
