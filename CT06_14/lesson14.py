@@ -7,5 +7,5 @@ t = turtle.Turtle()
 t.shape("turtle")
 t.fillcolor("orange")
 t.foward(90)
-
+t.seth()
 window.mainloop()
