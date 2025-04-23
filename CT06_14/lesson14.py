@@ -7,6 +7,7 @@ t = turtle.Turtle()
 t.shape("turtle")
 t.fillcolor("orange")
 for i in range(4):
+    t.speed()
     t.forward(50)
     t.left(100)
 window.mainloop()
