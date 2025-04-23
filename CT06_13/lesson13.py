@@ -107,4 +107,4 @@ import random
 WinNum = []
 for i in range(10):
     LuckNum = random.randint(1, 9999)
-    
+    WinNum.append()
