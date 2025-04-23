@@ -109,3 +109,18 @@ for i in range(10):
     LuckNum = random.randint(1, 9999)
     WinNum.append(str(LuckNum))
     print("Winner #" + str(i + 1) + ": " + WinNum[i])
+
+    # Task 6: Pizza Topping
+# Create a program that asks the user what pizza topping they want
+
+# 1. Create a list of pizza toppings
+# 2. Print out the list of pizza toppings with an index number next
+#    to each of them in this format:
+#     "1. Mushrooms"
+#     "2. Pepperoni"
+#     "3. Pineapple"
+#     ...
+# 3. In a 'while' loop, ask the user which pizza topping they want
+#    (By index)
+# 4. Exit the 'while' loop only when the user enters "end"
+# 5. Print the toppings that the user has selected
