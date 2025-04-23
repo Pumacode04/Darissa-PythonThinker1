@@ -106,6 +106,6 @@
 import random
 WinNum = []
 for i in range(10):
-    str(LuckNum = random.randint(1, 9999))
+    LuckNum = random.randint(1, 9999)
     WinNum.append(LuckNum)
-    print("Winner #" + i + ": " + (LuckNum))
+    print("Winner #" + i + ": " + LuckNum[i])
