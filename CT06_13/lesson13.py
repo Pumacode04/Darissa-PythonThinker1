@@ -125,4 +125,5 @@
 # 4. Exit the 'while' loop only when the user enters "end"
 # 5. Print the toppings that the user has selected
 
-pizza = ["Mushrooms", "Pepperoni", "Pineapple", "Tomato, Oilve", "Seasme Seeds"]
+pizza = ["Mushrooms", "Pepperoni", "Pineapple", "Tomato", "Oilve", "Seasme Seeds"]
+
