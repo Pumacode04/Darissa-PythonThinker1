@@ -103,12 +103,12 @@
 #     b. Winner #2: 3241
 #     c. Etc...
 
-import random
-WinNum = []
-for i in range(10):
-    LuckNum = random.randint(1, 9999)
-    WinNum.append(str(LuckNum))
-    print("Winner #" + str(i + 1) + ": " + WinNum[i])
+# import random
+# WinNum = []
+# for i in range(10):
+#     LuckNum = random.randint(1, 9999)
+#     WinNum.append(str(LuckNum))
+#     print("Winner #" + str(i + 1) + ": " + WinNum[i])
 
     # Task 6: Pizza Topping
 # Create a program that asks the user what pizza topping they want
