@@ -90,6 +90,19 @@
 #     else:
 #         print("No, we don't sell that")
 
+
+# Task 5: Lucky draw number generator
+# Create a lucky draw number generator that generates 10 numbers
+# between 1 to 9999.
+
+# 1. Import the 'random' library
+# 2. Using the 'random.randint()' function and a 'for' loop, add 10
+#    random numbers into a list
+# 3. Using another loop, announce the winners in the following format:
+#     a. Winner #1: 5426
+#     b. Winner #2: 3241
+#     c. Etc...
+
 import random
 for i in range(10):
     LuckNum = random.randint(1, 9999)
