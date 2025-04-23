@@ -92,4 +92,5 @@
 
 import random
 for i in range(10):
-    LuckNum = random.randint()
+    LuckNum = random.randint(1, 9999)
+    
