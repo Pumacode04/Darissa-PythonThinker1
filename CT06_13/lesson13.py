@@ -91,3 +91,5 @@
 #         print("No, we don't sell that")
 
 import random
+for i in range(10):
+    num
