@@ -110,4 +110,4 @@ for i in range(10):
     WinNum.append(LuckNum)
     counter = "1"
     print("Winner #" + counter + ": " + LuckNum[i])
-    counter = counter + 1
+    counter = int(counter) + 1
