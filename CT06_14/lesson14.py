@@ -8,5 +8,6 @@ t.shape("turtle")
 t.fillcolor("orange")
 for i in range(4):
     t.forward(50)
-    t.left(90)
+    t.left(100)
+    
 window.mainloop()
