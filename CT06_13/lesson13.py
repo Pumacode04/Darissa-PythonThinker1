@@ -92,4 +92,4 @@
 
 import random
 for i in range(10):
-    num
+    LuckNum = random.randint()
