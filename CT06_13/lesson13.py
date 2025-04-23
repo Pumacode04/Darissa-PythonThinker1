@@ -109,5 +109,5 @@ for i in range(10):
     LuckNum = random.randint(1, 9999)
     WinNum.append(LuckNum)
     counter = "1"
-    print("Winner #" + counter + ": " + WinN[i])
+    print("Winner #" + counter + ": " + WinNum[i])
     counter = int(counter) + 1
