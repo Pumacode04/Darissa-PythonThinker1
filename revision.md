@@ -49,3 +49,4 @@ Expected output:
 # Q7 Convert the following for loop into a while loop
 for i in range(100, -1, -10):
     print(i)
+# 
