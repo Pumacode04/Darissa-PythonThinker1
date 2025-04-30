@@ -23,7 +23,7 @@ if num = 5:
     print("Hello")
 else:
     print("Bye)
-# 
+# error?
 # Q6 What is the result?
 students = ["Geng Woon", "Darissa", "Walden", "Guhaan"]
 students.append("Tyler")
@@ -33,7 +33,7 @@ students.pop()
 del(students[0])
 students.pop(len(students) - 1)
 print(students)
-
+# 
 # Q7 Using a while loop, print out all the multiples of 3 and 5 that are less than or equal to 20
 Expected output:
 3 is a multiple of 3
