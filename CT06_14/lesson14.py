@@ -9,6 +9,7 @@
 #     t.left(72)
 # window.mainloop()
 
+import random
 import turtle
 window = turtle.Screen()
 t = turtle.Turtle()
