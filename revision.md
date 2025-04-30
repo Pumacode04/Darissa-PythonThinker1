@@ -16,7 +16,7 @@ else:
 # Q4 What is the output of this?
 num = 5
 print("The num is " + num)
-# 
+# The num is 
 # Q5 What is the output of this?
 num = 5
 if num = 5:
