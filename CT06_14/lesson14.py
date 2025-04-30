@@ -6,4 +6,4 @@ t = turtle.Turtle
 window.setup(width=600, height=400)
 counter = input("Number of sides?")
 for i in range(counter):
-    
+    forward
