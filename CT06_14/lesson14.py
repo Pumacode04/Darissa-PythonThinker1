@@ -16,4 +16,5 @@ t = turtle.Turtle()
 window.setup(width=600, height=600)
 t.shape("turtle")
 t.color("orange")
+
 window.mainloop()
