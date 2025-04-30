@@ -12,6 +12,7 @@
 import turtle
 window = turtle.Screen()
 t = turtle.Turtle()
+window
 t.shape("turtle")
 t.color("orange")
 window.mainloop()
