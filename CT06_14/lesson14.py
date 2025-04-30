@@ -23,5 +23,5 @@ for i in range(10):
     for i in range(4):
         t.foward(5)
         t.left(90)
-    t.write(x + "," )
+    t.write(str(x) + ", " + str(y))
 window.mainloop()
