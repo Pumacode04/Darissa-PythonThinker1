@@ -10,3 +10,5 @@
 #     t.forward(50)
 #     t.left(60)
 # window.mainloop()
+
+import turtle
