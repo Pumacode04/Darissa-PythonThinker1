@@ -12,3 +12,4 @@
 import turtle
 window = turtle.Screen
 t = turtle.Turtle
+t.goto(x=0, y=200)
