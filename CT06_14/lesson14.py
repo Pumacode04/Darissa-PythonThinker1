@@ -25,6 +25,6 @@ for i in range(10):
         t.left(90)
     t.up
     t.sety(y - 40)
-    
+    t.down
     t.write(str(x) + ", " + str(y))
 window.mainloop()
