@@ -16,14 +16,14 @@ else:
 # Q4 What is the output of this?
 num = 5
 print("The num is " + num)
-# The num is 
+# The num is 5
 # Q5 What is the output of this?
 num = 5
 if num = 5:
     print("Hello")
 else:
     print("Bye)
-
+# 
 # Q6 What is the result?
 students = ["Geng Woon", "Darissa", "Walden", "Guhaan"]
 students.append("Tyler")
