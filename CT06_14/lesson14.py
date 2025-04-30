@@ -22,7 +22,7 @@ for i in range(10):
     t.penup
     t.goto(x, y - 40)
     for i in range(4):
-        
+        t.pendown
         t.forward(5)
         t.left(90)
     t.write(str(x) + ", " + str(y))
