@@ -18,5 +18,5 @@ t.shape("turtle")
 t.color("orange")
 for i in range(10):
     x = random.rnadint(-280, 280)
-    y = 
+    y = random.randint(-)
 window.mainloop()
