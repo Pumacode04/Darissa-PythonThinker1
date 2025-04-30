@@ -12,3 +12,5 @@
 # window.mainloop()
 
 import turtle
+window = turtle.screen()
+window.setup
