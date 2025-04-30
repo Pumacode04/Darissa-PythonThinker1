@@ -16,4 +16,4 @@ t.penup()
 t.goto(x=0, y=200)
 t.pendown
 t.forward(600)
-t.goto
+t.goto(x)
