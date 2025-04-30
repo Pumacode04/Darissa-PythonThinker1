@@ -19,4 +19,6 @@ t.color("orange")
 for i in range(10):
     x = random.rnadint(-280, 280)
     y = random.randint(-280, 280)
+    t.goto(x, y)
+    
 window.mainloop()
