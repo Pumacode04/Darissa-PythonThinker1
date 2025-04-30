@@ -12,6 +12,8 @@
 import turtle
 window = turtle.Screen()
 t = turtle.Turtle()
+t.shape("turtle")
+t.color
 t.penup()
 t.goto(0, 200)
 t.pendown()
