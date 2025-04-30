@@ -14,4 +14,5 @@ window = turtle.Screen
 t = turtle.Turtle
 t.penup()
 t.goto(x=0, y=200)
-t.forward()
+t.pendown
+t.forward(600)
