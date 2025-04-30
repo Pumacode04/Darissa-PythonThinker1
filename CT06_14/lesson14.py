@@ -17,4 +17,4 @@ t.goto(x=0, y=200)
 t.pendown
 t.forward(600)
 t.goto(x=300, y=0)
-t.seth
+t.backwa
