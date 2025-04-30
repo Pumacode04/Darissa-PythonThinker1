@@ -19,7 +19,7 @@ t.color("orange")
 for i in range(10):
     x = random.randint(-280, 280)
     y = random.randint(-280, 280)
-    t.goto(x, y - 40)
+    t.goto(x, y)
     t.pendown
     for i in range(4):
         t.forward(5)
