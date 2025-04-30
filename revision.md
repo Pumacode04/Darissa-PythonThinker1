@@ -46,7 +46,6 @@ Expected output:
 18 is a multiple of 3
 20 is a multiple of 5
 
-# Q7 Convert the following for loop into a while loop
+# Q8 Convert the following for loop into a while loop
 for i in range(100, -1, -10):
     print(i)
-# 
