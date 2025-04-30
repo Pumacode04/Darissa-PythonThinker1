@@ -20,6 +20,7 @@ t.pendown()
 t.forward(600)
 t.penup()
 t.goto(0, 200)
+t.epndown
 t.right(90)
 t.foward(400)
 window.mainloop()
