@@ -13,11 +13,11 @@ import turtle
 window = turtle.Screen
 t = turtle.Turtle
 t.penup()
-t.goto(x=0, y=200)
+t.goto(0, y=200)
 t.pendown()
 t.forward(600)
 t.penup()
-t.goto(x=300, y=0)
+t.goto(300, 0)
 t.pendown()
 t.backward(400)
 window.mainloop()
