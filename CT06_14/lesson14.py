@@ -14,3 +14,4 @@
 import turtle
 window = turtle.screen()
 window.setup(width=600, height=400)
+t = turtle.Turtle()
