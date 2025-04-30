@@ -20,6 +20,7 @@ for i in range(10):
     x = random.randint(-280, 280)
     y = random.randint(-280, 280)
     t.goto(x, y)
+    t.down
     for i in range(4):
         t.forward(5)
         t.left(90)
