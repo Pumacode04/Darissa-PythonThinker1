@@ -13,7 +13,7 @@ import turtle
 window = turtle.Screen
 t = turtle.Turtle
 t.penup()
-t.goto(0, y=200)
+t.goto(0, 200)
 t.pendown()
 t.forward(600)
 t.penup()
