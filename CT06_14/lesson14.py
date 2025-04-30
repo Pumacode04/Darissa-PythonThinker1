@@ -17,5 +17,6 @@ t.color("orange")
 t.penup()
 t.goto(-300, 0)
 t.forward(600)
+t.goto()
 
 window.mainloop()
