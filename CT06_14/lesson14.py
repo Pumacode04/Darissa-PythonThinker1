@@ -16,5 +16,5 @@ t.shape("turtle")
 t.color("orange")
 t.penup()
 t.goto(0, 0)
-
+t.forward()
 window.mainloop()
