@@ -17,7 +17,7 @@ window.setup(width=600, height=600)
 t.shape("turtle")
 t.color("orange")
 for i in range(10):
-    x = random.rnadint(-280, 280)
+    x = random.randint(-280, 280)
     y = random.randint(-280, 280)
     t.goto(x, y)
     for i in range(4):
