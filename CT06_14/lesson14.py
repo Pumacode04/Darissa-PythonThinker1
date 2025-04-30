@@ -9,3 +9,5 @@
 #     t.left(72)
 # window.mainloop()
 
+import turtle
+window = turtle.Screen
