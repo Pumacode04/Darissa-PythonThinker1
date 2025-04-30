@@ -18,3 +18,4 @@ t.pendown
 t.forward(600)
 t.goto(x=300, y=0)
 t.backward(400)
+window.mainloop()
