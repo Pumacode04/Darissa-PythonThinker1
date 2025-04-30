@@ -16,6 +16,7 @@ t = turtle.Turtle()
 window.setup(width=600, height=600)
 t.shape("turtle")
 t.color("orange")
+t.penup
 for i in range(10):
     x = random.randint(-280, 280)
     y = random.randint(-280, 280)
