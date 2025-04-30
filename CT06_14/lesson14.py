@@ -10,8 +10,8 @@
 # window.mainloop()
 
 import turtle
-window = turtle.Screen
-t = turtle.Turtle
+window = turtle.Screen()
+t = turtle.Turtle()
 t.penup()
 t.goto(0, 200)
 t.pendown()
