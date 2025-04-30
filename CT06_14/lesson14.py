@@ -16,8 +16,9 @@ t.shape("turtle")
 t.color("orange")
 t.penup()
 t.goto(-300, 0)
-t.pendown
+t.pendown()
 t.forward(600)
+t.penu
 t.goto(0, 200)
 t.right(90)
 t.foward(400)
