@@ -22,5 +22,6 @@ for i in range(10):
     t.goto(x, y)
     for i in range(4):
         t.foward(5)
-        t
+        t.left(90)
+        
 window.mainloop()
