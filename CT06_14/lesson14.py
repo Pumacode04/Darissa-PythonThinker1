@@ -23,7 +23,8 @@ for i in range(10):
     for i in range(4):
         t.forward(5)
         t.left(90)
-    
+    t.up
     t.sety(y - 40)
+    
     t.write(str(x) + ", " + str(y))
 window.mainloop()
