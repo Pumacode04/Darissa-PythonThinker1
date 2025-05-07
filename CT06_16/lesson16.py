@@ -7,4 +7,4 @@ while True :
         print(counter)
         counter = counter + 10
     else:
-        
+        break
