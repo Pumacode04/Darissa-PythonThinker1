@@ -10,9 +10,10 @@
 #         break
 
 #Task 2:
-password = "superpass123"
-ui = input("Enter a password.")
-if ui == password:
-    print("Access Granted")
-else:
-    print("Access Denied")
+# password = "superpass123"
+# ui = input("Enter a password.")
+# if ui == password:
+#     print("Access Granted")
+# else:
+#     print("Access Denied")
+
