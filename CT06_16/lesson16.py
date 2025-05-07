@@ -20,3 +20,5 @@
 #Q2
 
 #Task 1
+
+planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
