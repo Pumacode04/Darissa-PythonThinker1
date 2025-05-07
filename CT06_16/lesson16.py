@@ -25,7 +25,6 @@ planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
 # 1. Write code below to print the 3rd item 
 #    in this list using index e.g. earth
 
-
 # 2. Write code to append neptune to this list.
 
 
