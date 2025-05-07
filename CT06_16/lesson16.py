@@ -10,4 +10,4 @@
 #         break
 
 #Task 2:
-password = "P"
+password = "superpass123"
