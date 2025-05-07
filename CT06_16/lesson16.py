@@ -11,4 +11,6 @@
 
 #Task 2:
 password = "superpass123"
-ui = input("")
+ui = input("Enter a password.")
+if ui != password:
+    print("")
