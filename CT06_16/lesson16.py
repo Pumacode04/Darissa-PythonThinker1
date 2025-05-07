@@ -8,3 +8,5 @@
 #         counter = counter + 10
 #     else:
 #         break
+
+#Task 2:
