@@ -10,3 +10,4 @@
 #         break
 
 #Task 2:
+password = "P"
