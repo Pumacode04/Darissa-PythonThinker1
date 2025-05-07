@@ -36,4 +36,4 @@ planets.pop[6]
 # 5. Using a for loop, print all the planets 
 #    from this list one by one.
 for planet in planets:
-    
+    print(planet)
