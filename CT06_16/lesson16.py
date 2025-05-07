@@ -5,4 +5,6 @@ counter = 10
 while True :
     if counter < 210:
         print(counter)
-    counter = counter + 10
+        counter = counter + 10
+    else:
+        
