@@ -4,4 +4,4 @@
 counter = 10
 if counter < 210:
     print(counter)
-    counter = counter 
+    counter = counter + 10
