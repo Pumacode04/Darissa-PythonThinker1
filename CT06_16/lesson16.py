@@ -12,5 +12,5 @@
 #Task 2:
 password = "superpass123"
 ui = input("Enter a password.")
-if ui != password:
-    print("")
+if ui += password:
+    print("Access Granted")
