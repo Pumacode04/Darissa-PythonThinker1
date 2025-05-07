@@ -17,3 +17,6 @@
 # else:
 #     print("Access Denied")
 
+#Q2
+
+#Task 1
