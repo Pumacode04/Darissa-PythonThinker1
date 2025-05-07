@@ -15,4 +15,4 @@ ui = input("Enter a password.")
 if ui == password:
     print("Access Granted")
 else:
-    print("")
+    print("Access Denied")
