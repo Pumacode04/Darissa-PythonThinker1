@@ -34,4 +34,5 @@ def increment_counter():
     global counter
     counter = counter + 1
 for i in range(3):
-    incre
+    increment_counter()
+    
