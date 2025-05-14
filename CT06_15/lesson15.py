@@ -50,4 +50,4 @@
 #     284
 
 def doubleNumber(x):
-    x = input("")
+    x
