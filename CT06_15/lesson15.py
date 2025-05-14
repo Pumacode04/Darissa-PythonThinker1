@@ -90,4 +90,4 @@ for number in numbers:
     if number is 1:
         print(str(number + 1) + "is an odd number")
     else:
-        print()
+        print(str(number + 1) )
