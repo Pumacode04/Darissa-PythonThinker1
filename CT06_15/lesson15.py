@@ -83,10 +83,10 @@
 #     "9 is an odd number"
 #     "2 is an even number"
 
-def isEven(num):
-    return num % 2 == 0
+# def isEven(num):
+#     return num % 2 == 0
 
-import random
+# import random
 nums = [ random.randint(1, 100) for _ in range(10) ]
 for num in nums:
     if isEven(num):
