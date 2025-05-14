@@ -31,4 +31,5 @@
 
 counter = 0
 def increment_counter():
-    gobal
+    global counter
+    counter = counter + 1
