@@ -83,9 +83,13 @@
 #     "9 is an odd number"
 #     "2 is an even number"
 
-numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0]
-for number in numbers:
-    if number == 1:
-        print(str(number) + "is an odd number")
+def isEven(num):
+    return num % 2 == 0
+
+import random
+nums = [ random.randint(1, 100) for _ in range(10) ]
+for num in nums:
+    if isEven(num):
+        print(str(num) + " is an even number")
     else:
-        print(str(number) + "is an even number")
+        print(str(num) + " is an odd number")
