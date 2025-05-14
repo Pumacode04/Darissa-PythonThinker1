@@ -65,7 +65,20 @@
 # 3. Ask the user for their name
 # 4. Using the 'greet()' function, print the greeting
 
-ui = input("What is your name?")
-def greet(ui):
-    print("Hello there " + ui)
-greet(ui)
+# ui = input("What is your name?")
+# def greet(ui):
+#     print("Hello there " + ui)
+# greet(ui)
+
+## Task 7: Even or Odd? III
+# Create a function that takes in a number and returns whether it is
+# even
+
+# 1. Create a function named isEven()
+# 2. If the number is even, the function should return True
+# 3. If the number is odd, the function should return False
+# 4. Using the 'isEven()' function, loop through a list of numbers and
+#    print them out in this format:
+#     "3 is an odd number"
+#     "9 is an odd number"
+#     "2 is an even number"
