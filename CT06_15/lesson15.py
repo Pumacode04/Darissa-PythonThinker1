@@ -29,10 +29,10 @@
 
 # Your output should be "3"
 
-counter = 0
-def increment_counter():
-    global counter
-    counter = counter + 1
+# counter = 0
+# def increment_counter():
+#     global counter
+#     counter = counter + 1
 for i in range(3):
     increment_counter()
 print(counter)
