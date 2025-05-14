@@ -17,6 +17,6 @@
 #         "I don't think you belong here..."
 
 name = input("What's your name?")
-def friend():
+def person():
     if name == "Ethan":
         print("Hi Ethan. How are you?")
