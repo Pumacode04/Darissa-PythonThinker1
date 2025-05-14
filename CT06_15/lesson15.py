@@ -49,6 +49,6 @@
 #     1530
 #     284
 
-nums = []
+nums = [4, 9, 1530, 284]
 def doubleNumber(x):
     x
