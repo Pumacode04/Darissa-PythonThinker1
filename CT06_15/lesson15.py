@@ -16,3 +16,4 @@
 # 3. If the person is none of the above, say:
 #         "I don't think you belong here..."
 
+name = input("")
