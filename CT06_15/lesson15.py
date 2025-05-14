@@ -66,3 +66,5 @@
 # 4. Using the 'greet()' function, print the greeting
 
 ui = input("What is your name?")
+def greet(ui):
+    
