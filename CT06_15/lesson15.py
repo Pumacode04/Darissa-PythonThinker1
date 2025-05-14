@@ -85,8 +85,7 @@
 
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0]
 def isEven(numbers):
-    return numbers % 2
-print(numbers)
+    return numb
 for number in numbers:
     if number == 1:
         print(str(number) + "is an odd number")
