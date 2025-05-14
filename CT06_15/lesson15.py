@@ -49,5 +49,6 @@
 #     1530
 #     284
 
+nums = []
 def doubleNumber(x):
     x
