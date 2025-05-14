@@ -29,3 +29,4 @@
 
 # Your output should be "3"
 
+counter = 0
