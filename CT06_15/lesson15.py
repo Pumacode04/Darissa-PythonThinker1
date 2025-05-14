@@ -19,4 +19,4 @@
 name = input("What's your name?")
 def friend():
     if name == "Ethan":
-        print("")
+        print("Hi Ethan. How are you?")
