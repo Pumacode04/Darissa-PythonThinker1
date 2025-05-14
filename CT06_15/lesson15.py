@@ -30,3 +30,5 @@
 # Your output should be "3"
 
 counter = 0
+def increment_counter():
+    gobal
