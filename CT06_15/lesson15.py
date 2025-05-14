@@ -87,9 +87,9 @@
 #     return num % 2 == 0
 
 # import random
-nums = [ random.randint(1, 100) for _ in range(10) ]
-for num in nums:
-    if isEven(num):
-        print(str(num) + " is an even number")
-    else:
-        print(str(num) + " is an odd number")
+# nums = [ random.randint(1, 100) for _ in range(10) ]
+# for num in nums:
+#     if isEven(num):
+#         print(str(num) + " is an even number")
+#     else:
+#         print(str(num) + " is an odd number")
